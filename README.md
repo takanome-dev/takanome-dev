@@ -3,9 +3,10 @@
 I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack Developer.
 
 - 🌱 I’m currently learning **NextJS and GraphQL**
+- 💗 I love building projects.
 - 👯 I’m looking to collaborate on **Open Source**.
 - 💬 Ask me about JS, TS.
-- 💗 I love building projects.
+- 📩 Feel free to reach me at _takanomedev221@gmail.com_.
 
 ## 🛠 My Toolkit
 
@@ -81,14 +82,14 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
   </a>
 </p>
 
-## My Github Stats 📊
+## 📈 My Github Stats
 
-<p align="left">
+<p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=takanome-dev&show_icons=true&theme=tokyonight" alt="Takanome Dev's Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&theme=tokyonight&layout=compact" alt="Takanome Dev Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&theme=tokyonight&layout=compact" alt="Takanome Dev's Most Used Languages" />
 </p>
 
-## Let's connect 🤝
+## 🤝 Let's connect 🤝
 
 <p>
   <a href="https://twitter.com/takanome_dev" target="_blank">
