@@ -89,7 +89,7 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&theme=tokyonight&layout=compact" alt="Takanome Dev's Most Used Languages" />
 </p>
 
-## 🤝 Let's connect 🤝
+<!-- ## 🤝 Let's connect 🤝
 
 <p>
   <a href="https://twitter.com/takanome_dev" target="_blank">
@@ -100,4 +100,4 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
   <a href="https://web.facebook.com/TakanomeDev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Takanome Dev Facebook Profile" width="45" height="45" />
   </a>
-</p>
+</p> -->
