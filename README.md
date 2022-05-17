@@ -85,19 +85,25 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ## 📈 My Github Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=takanome-dev&show_icons=true&theme=tokyonight" alt="Takanome Dev's Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&theme=tokyonight&layout=compact" alt="Takanome Dev's Most Used Languages" />
+  <img width="54%" src="https://taka-github-readme-stats.vercel.app/api?username=takanome-dev&show_icons=true&theme=tokyonight" alt="Takanome Dev's Stats" />
+  <img width="45%" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&theme=tokyonight&layout=compact" alt="Takanome Dev's Most Used Languages" />
 </p>
 
-<!-- ## 🤝 Let's connect 🤝
+## 🤝 Let's connect 🤝
 
 <p>
   <a href="https://twitter.com/takanome_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Takanome Dev Twitter Profile" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Takanome Dev Twitter Profile" width="45" height="45" />
   </a>
   <a href="https://www.linkedin.com/in/takanome-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Takanome Dev Linkedin Profile" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="Takanome Dev Linkedin Profile" width="45" height="45" />
+    </a>
   <a href="https://web.facebook.com/TakanomeDev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Takanome Dev Facebook Profile" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" alt="Takanome Dev Facebook Profile" width="45" height="45" />
   </a>
-</p> -->
+  <a href="https://www.instagram.com/takanome_dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Takanome Dev Facebook Profile" width="45" height="45" />
+  </a>
+</p>
+
+<!--START_SECTION:activity-->
