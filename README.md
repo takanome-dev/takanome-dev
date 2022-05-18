@@ -110,11 +110,6 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 
 ### ⚡ Recent Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-
-<p align="left">
-  Last refresh:
-  <b><!--TIMESTAMP--></b>
-</p>
+<!--START_SECTION:activity-->
 
 ---
