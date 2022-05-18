@@ -112,7 +112,7 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#54](https://github.com/nhcommunity/homepage/pull/54) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+1. 💪 Open PR [#54](https://github.com/nhcommunity/homepage/pull/54) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
 2. 🎉 Merged PR [#11](https://github.com/nhcarrigan/general-documentation/pull/11) in [nhcarrigan/general-documentation](https://github.com/nhcarrigan/general-documentation)
 3. 🎉 Merged PR [#628](https://github.com/BeccaLyria/discord-documentation/pull/628) in [BeccaLyria/discord-documentation](https://github.com/BeccaLyria/discord-documentation)
 4. 🎉 Merged PR [#371](https://github.com/BeccaLyria/BeccaLyria.github.io/pull/371) in [BeccaLyria/BeccaLyria.github.io](https://github.com/BeccaLyria/BeccaLyria.github.io)
