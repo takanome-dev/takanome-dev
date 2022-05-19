@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align="right" src="https://github.com/TAKANOME-DEV/takanome-dev/blob/master/code.gif?raw=true" alt="GIF" />
+<img align="right" src="https://github.com/TAKANOME-DEV/takanome-dev/blob/master/code.gif?raw=true" alt="GIF" width="500" height="310" />
 
 I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack Developer.
 
