@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img align="right" src="https://github.com/TAKANOME-DEV/takanome-dev/blob/master/code.gif?raw=true" alt="GIF"  width="300" height="200" />
-
 I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack Developer.
 
 - 🌱 I’m currently learning **NextJS and GraphQL**
@@ -9,6 +7,7 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 - 👯 I am an open-source enthusiast. I'm learning a lot from the open-source community and really love to collaborate and share knowledge.
 - 💬 Ask me about anything, always glad to help.
 - 📩 Feel free to reach me at _takanomedev221@gmail.com_.
+<!-- <img align="right" src="https://github.com/TAKANOME-DEV/takanome-dev/blob/master/code.gif?raw=true" alt="GIF"  width="300" height="200" /> -->
 
 ## 🛠 My Toolkit
 
