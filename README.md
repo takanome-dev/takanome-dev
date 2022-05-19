@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img align="right" src="./code.gif" alt="GIF" />
+
 I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack Developer.
 
 - 🌱 I’m currently learning **NextJS and GraphQL**
