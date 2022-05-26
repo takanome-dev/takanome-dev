@@ -107,7 +107,7 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
   </a>
 </p>
 
----
+<!-- ---
 
 ### ⚡ Recent Activity
 
@@ -115,4 +115,4 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 
 <!--RECENT_ACTIVITY:last_update-->
 
----
+--- -->
