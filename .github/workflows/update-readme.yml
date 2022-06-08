@@ -13,6 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: takanome-dev/github-activity-action@master
+      - uses: Readme-Workflows/recent-activity@2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
