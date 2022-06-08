@@ -12,7 +12,7 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
+      # - uses: actions/checkout@v3
       - uses: takanome-dev/github-activity-action@v1.0.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
