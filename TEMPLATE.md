@@ -110,13 +110,13 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 9 commit(s) to [TAKANOME-DEV/energy-prices-api](https://github.com/TAKANOME-DEV/energy-prices-api)
-2. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
-3. 🎉 Merged PR [#48](https://github.com/TAKANOME-DEV/vidly-client/pull/48) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
-4. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-5. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
+1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/vidly-server](https://github.com/TAKANOME-DEV/vidly-server)
+2. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
+3. ❌ Closed PR [#56](https://github.com/TAKANOME-DEV/vidly-client/pull/56) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
+4. ❌ Closed PR [#47](https://github.com/TAKANOME-DEV/vidly-client/pull/47) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
+5. ❌ Closed PR [#52](https://github.com/TAKANOME-DEV/vidly-client/pull/52) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 9th, 2022, 7:33:32 AM
+Last Updated: Thursday, June 9th, 2022, 10:53:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
