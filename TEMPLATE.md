@@ -110,13 +110,13 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
-2. 🎉 Merged PR [#48](https://github.com/TAKANOME-DEV/vidly-client/pull/48) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
-3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
+1. ⬆️ Pushed 9 commit(s) to [TAKANOME-DEV/energy-prices-api](https://github.com/TAKANOME-DEV/energy-prices-api)
+2. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
+3. 🎉 Merged PR [#48](https://github.com/TAKANOME-DEV/vidly-client/pull/48) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
 4. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
 5. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 9th, 2022, 7:15:41 AM
+Last Updated: Thursday, June 9th, 2022, 7:33:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
