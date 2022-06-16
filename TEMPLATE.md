@@ -110,13 +110,13 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#64](https://github.com/TAKANOME-DEV/vidly-client/pull/64) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
-2. ❌ Closed PR [#65](https://github.com/TAKANOME-DEV/vidly-client/pull/65) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
-3. ❌ Closed PR [#63](https://github.com/TAKANOME-DEV/vidly-client/pull/63) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
-4. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/vidly-server](https://github.com/TAKANOME-DEV/vidly-server)
-5. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
+1. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/sample-mobile-app](https://github.com/TAKANOME-DEV/sample-mobile-app)
+2. 🎉 Merged PR [#1](https://github.com/amplication/sample-mobile-app/pull/1) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+3. ⬆️ Pushed 2 commit(s) to [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+4. 💪 Opened PR [#1](https://github.com/amplication/sample-mobile-app/pull/1) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+5. ❌ Closed PR [#64](https://github.com/TAKANOME-DEV/vidly-client/pull/64) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 15th, 2022, 1:44:40 AM
+Last Updated: Thursday, June 16th, 2022, 1:41:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
