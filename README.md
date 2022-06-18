@@ -110,13 +110,13 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/sample-mobile-app](https://github.com/TAKANOME-DEV/sample-mobile-app)
-2. 🎉 Merged PR [#1](https://github.com/amplication/sample-mobile-app/pull/1) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-3. ⬆️ Pushed 2 commit(s) to [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-4. 💪 Opened PR [#1](https://github.com/amplication/sample-mobile-app/pull/1) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-5. ❌ Closed PR [#64](https://github.com/TAKANOME-DEV/vidly-client/pull/64) in [TAKANOME-DEV/vidly-client](https://github.com/TAKANOME-DEV/vidly-client)
+1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
+2. ✌️ Released [v1.0.3](https://github.com/TAKANOME-DEV/assign-to-me-action/releases/tag/v1.0.3) in [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
+3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
+4. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
+5. 🎉 Merged PR [#21](https://github.com/TAKANOME-DEV/assign-to-me-action/pull/21) in [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 17th, 2022, 1:38:08 AM
+Last Updated: Saturday, June 18th, 2022, 1:42:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
