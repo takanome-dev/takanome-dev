@@ -110,13 +110,13 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
-2. ✌️ Released [v1.0.3](https://github.com/TAKANOME-DEV/assign-to-me-action/releases/tag/v1.0.3) in [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
-3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
-4. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
-5. 🎉 Merged PR [#21](https://github.com/TAKANOME-DEV/assign-to-me-action/pull/21) in [TAKANOME-DEV/assign-to-me-action](https://github.com/TAKANOME-DEV/assign-to-me-action)
+1. ⬆️ Pushed 3 commit(s) to [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+2. 🎉 Merged PR [#2](https://github.com/amplication/sample-mobile-app/pull/2) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+3. 💪 Opened PR [#2](https://github.com/amplication/sample-mobile-app/pull/2) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+4. 🎉 Merged PR [#6](https://github.com/TAKANOME-DEV/typescript-template/pull/6) in [TAKANOME-DEV/typescript-template](https://github.com/TAKANOME-DEV/typescript-template)
+5. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/typescript-template](https://github.com/TAKANOME-DEV/typescript-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 18th, 2022, 1:42:39 AM
+Last Updated: Sunday, June 19th, 2022, 1:47:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
