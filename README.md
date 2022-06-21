@@ -110,13 +110,13 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-2. 🎉 Merged PR [#2](https://github.com/amplication/sample-mobile-app/pull/2) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-3. 💪 Opened PR [#2](https://github.com/amplication/sample-mobile-app/pull/2) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-4. 🎉 Merged PR [#6](https://github.com/TAKANOME-DEV/typescript-template/pull/6) in [TAKANOME-DEV/typescript-template](https://github.com/TAKANOME-DEV/typescript-template)
-5. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/typescript-template](https://github.com/TAKANOME-DEV/typescript-template)
+1. ❗️ Opened issue [#9](https://github.com/amplication/sample-mobile-app/issues/9) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+2. ❗️ Opened issue [#8](https://github.com/amplication/sample-mobile-app/issues/8) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+3. ❗️ Opened issue [#7](https://github.com/amplication/sample-mobile-app/issues/7) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+4. ❗️ Opened issue [#6](https://github.com/amplication/sample-mobile-app/issues/6) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+5. ❗️ Opened issue [#5](https://github.com/amplication/sample-mobile-app/issues/5) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 20th, 2022, 1:44:06 AM
+Last Updated: Tuesday, June 21st, 2022, 1:44:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
