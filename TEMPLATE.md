@@ -110,13 +110,13 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#9](https://github.com/amplication/sample-mobile-app/issues/9) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-2. ❗️ Opened issue [#8](https://github.com/amplication/sample-mobile-app/issues/8) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-3. ❗️ Opened issue [#7](https://github.com/amplication/sample-mobile-app/issues/7) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-4. ❗️ Opened issue [#6](https://github.com/amplication/sample-mobile-app/issues/6) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
-5. ❗️ Opened issue [#5](https://github.com/amplication/sample-mobile-app/issues/5) in [amplication/sample-mobile-app](https://github.com/amplication/sample-mobile-app)
+1. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+2. 🎉 Merged PR [#1](https://github.com/TAKANOME-DEV/monorepo-template/pull/1) in [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+3. 👍 Approved [#1](https://github.com/TAKANOME-DEV/monorepo-template/pull/1#pullrequestreview-1017339983) in [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+4. 🎉 Merged PR [#2](https://github.com/TAKANOME-DEV/monorepo-template/pull/2) in [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+5. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 23rd, 2022, 1:41:32 AM
+Last Updated: Friday, June 24th, 2022, 1:44:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
