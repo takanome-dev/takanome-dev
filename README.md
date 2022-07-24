@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack Developer.
+I'm __El Hadji Malick Seck__ a.k.a **TAKANOME DEV**, a self taught Full Stack Developer.
 
-- 🌱 I’m currently learning **NextJS and GraphQL**
+- 🌱 I’m currently learning **Python and Django**
 - 💗 I love building projects.
 - 👯 I am an open-source enthusiast. I'm learning a lot from the open-source community and really love to collaborate and share knowledge.
 - 💬 Ask me about anything, always glad to help.
@@ -20,6 +20,9 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
   </a>
  <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="45" height="45" />
+  </a>
+   <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="" width="45" height="45" />
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="" width="45" height="45" />
@@ -46,10 +49,19 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="" width="45" height="45" />
   </a>
   <a href="#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" width="45" height="45" />
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="" width="45" height="45" />
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="" width="45" height="45" />
+  </a>
+   <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="" width="45" height="45" />
+  </a>
+   <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="" width="45" height="45" />
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="" width="45" height="45" />
@@ -65,6 +77,9 @@ I'm ~~El Hadji Malick Seck~~ a.k.a **TAKANOME DEV**, a self taught Full Stack De
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="" width="45" height="45" />
+  </a>
+   <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" width="45" height="45" />
   </a>
   <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="" width="45" height="45" />
