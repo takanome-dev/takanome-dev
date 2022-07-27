@@ -120,12 +120,12 @@ I'm _El Hadji Malick Seck_ a.k.a **TAKANOME DEV**, a self taught Full Stack Deve
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-2. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
-3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
+2. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
+3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
 4. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
 5. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 26th, 2022, 2:01:38 AM
+Last Updated: Wednesday, July 27th, 2022, 1:53:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
