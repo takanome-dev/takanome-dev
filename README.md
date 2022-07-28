@@ -119,13 +119,13 @@ I'm _El Hadji Malick Seck_ a.k.a **TAKANOME DEV**, a self taught Full Stack Deve
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-2. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-4. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
-5. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
+1. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+2. 🎉 Merged PR [#11](https://github.com/TAKANOME-DEV/monorepo-template/pull/11) in [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+3. 👍 Approved [#11](https://github.com/TAKANOME-DEV/monorepo-template/pull/11#pullrequestreview-1052749892) in [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+4. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
+5. 🎉 Merged PR [#10](https://github.com/TAKANOME-DEV/monorepo-template/pull/10) in [TAKANOME-DEV/monorepo-template](https://github.com/TAKANOME-DEV/monorepo-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 27th, 2022, 1:53:17 AM
+Last Updated: Thursday, July 28th, 2022, 1:49:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
