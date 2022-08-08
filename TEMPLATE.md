@@ -127,5 +127,5 @@ I'm _El Hadji Malick Seck_ a.k.a **TAKANOME DEV**, a self taught Full Stack Deve
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 7th, 2022, 1:52:20 AM
+Last Updated: Monday, August 8th, 2022, 1:45:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
