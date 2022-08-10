@@ -5,7 +5,7 @@ I'm _El Hadji Malick Seck_ a.k.a **TAKANOME DEV**, a self taught Full Stack Deve
 - 👯 I am an open-source enthusiast. I'm learning a lot from the open-source community and really love to collaborate and share knowledge.
 - 💗 I love building projects.
 - 🌱 I’m currently learning **Python and Django**
-- 💬 Ask me about anything, always glad to help.
+- 💬 Ask me about JS - TS, always glad to help.
 - 📩 Feel free to reach me at _takanomedev221@gmail.com_.
 <!-- <img align="right" src="https://github.com/TAKANOME-DEV/takanome-dev/blob/master/code.gif?raw=true" alt="GIF"  width="300" height="200" /> -->
 
