@@ -94,10 +94,13 @@ I'm _El Hadji Malick Seck_ a.k.a **TAKANOME DEV**, a self taught Full Stack Deve
 
 ## 📈 My Github Stats
 
-<p align="center">
-  <img align="left" src="https://taka-github-readme-stats.vercel.app/api?username=takanome-dev&count_private=true&show_icons=true&theme=tokyonight" alt="Takanome Dev's Stats" />
-  <img align="center" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&langs_count=8&theme=tokyonight&layout=compact" alt="Takanome Dev's Most Used Languages" />
-</p>
+| <a href="https://github.com/TAKANOME-DEV/takanome-dev"><img align="center" src="https://taka-github-readme-stats.vercel.app/api?username=takanome-dev&count_private=true&show_icons=true&theme=tokyonight" alt="Takanome Dev's Stats" /></a> | <a href="https://github.com/TAKANOME-DEV/takanome-dev"><img align="center" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&langs_count=8&theme=tokyonight&layout=compact" alt="Takanome Dev's Most Used Languages" /></a> |
+  | ------------- | ------------- |
+
+<!-- <p align="center" height="300px">
+  <img width="40%" height="100%" src="https://taka-github-readme-stats.vercel.app/api?username=takanome-dev&count_private=true&show_icons=true&theme=tokyonight" alt="Takanome Dev's Stats" />
+  <img width="50%" height="100%" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=takanome-dev&langs_count=8&theme=tokyonight&layout=compact" alt="Takanome Dev's Most Used Languages" />
+</p> -->
 
 ## 🤝 Let's connect 🤝
 
