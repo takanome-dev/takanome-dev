@@ -122,13 +122,13 @@ I'm _El Hadji Malick Seck_ a.k.a **TAKANOME DEV**, a self taught Full Stack Deve
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-2. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
-4. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
+1. 👍 Approved [#2](https://github.com/TAKANOME-DEV/django-cinema-app/pull/2#pullrequestreview-1070085969) in [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
+2. ⬆️ Pushed 2 commit(s) to [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
+3. 🎉 Merged PR [#1](https://github.com/TAKANOME-DEV/django-cinema-app/pull/1) in [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
+4. 👍 Approved [#1](https://github.com/TAKANOME-DEV/django-cinema-app/pull/1#pullrequestreview-1070071039) in [TAKANOME-DEV/django-cinema-app](https://github.com/TAKANOME-DEV/django-cinema-app)
 5. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/takanome-dev](https://github.com/TAKANOME-DEV/takanome-dev)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 11th, 2022, 1:42:21 AM
+Last Updated: Friday, August 12th, 2022, 1:46:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
