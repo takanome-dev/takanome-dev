@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="872" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="756" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,6 +191,75 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">TAKANOME-DEV/hot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">beta</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a879f6b</div>
+                                        <div class="message">chore(minor): release 2.25.0-beta.2 on beta channel [skip ci]
+
+## [2.25.0-beta.2](https://github.com/open-sauced/hot-sauce/compare/v2.25.0-beta.1...v2.25.0-beta.2) (2022-09-08)
+
+### 🍕 Features
+
+* added version number and ascii art addition - bdougie edit ([#332](https://github.com/open-sauced/hot-sauce/issues/332)) ([07a40aa](https://github.com/open-sauced/hot-sauce/commit/07a40aa963d672f5a2e5f2e2b2dbc25f32d974cb)), closes [#106](https://github.com/open-sauced/hot-sauce/issues/106) [#322](https://github.com/open-sauced/hot-sauce/issues/322)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07a40aa</div>
+                                        <div class="message">feat: added version number and ascii art addition - bdougie edit (#332)
+
+Fixes #106
+closes #322
+
+Co-authored-by: Erin Mikail Staples &lt;54031531+erinmikailstaples@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#820d643</div>
+                                        <div class="message">chore(minor): release 2.25.0-beta.1 on beta channel [skip ci]
+
+## [2.25.0-beta.1](https://github.com/open-sauced/hot-sauce/compare/v2.24.3-beta.2...v2.25.0-beta.1) (2022-09-08)
+
+### 🍕 Features
+
+* Added white borders to Stacked Avatars Component ([#328](https://github.com/open-sauced/hot-sauce/issues/328)) ([8dda541](https://github.com/open-sauced/hot-sauce/commit/8dda541e996325d645c64bdc0e16ff69753970e9)), closes [#286](https://github.com/open-sauced/hot-sauce/issues/286)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dda541</div>
+                                        <div class="message">feat: Added white borders to Stacked Avatars Component (#328)
+
+fix #286
+
+Co-authored-by: Brian Douglas &lt;bdougie@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f68d8ac</div>
+                                        <div class="message">chore(patch): release 2.24.3-beta.2 on beta channel [skip ci]
+
+### [2.24.3-beta.2](https://github.com/open-sauced/hot-sauce/compare/v2.24.3-beta.1...v2.24.3-beta.2) (2022-09-08)
+
+### 🐛 Bug Fixes
+
+* correct tailwind antipattern in primary nav ([#329](https://github.com/open-sauced/hot-sauce/issues/329)) ([b301293](https://github.com/open-sauced/hot-sauce/commit/b301293d4b02d6c1d7c0cce7f965f0ba0ea801aa)), closes [#314](https://github.com/open-sauced/hot-sauce/issues/314)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b301293</div>
+                                        <div class="message">fix: correct tailwind antipattern in primary nav (#329)
+
+Fixes #314</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -250,153 +319,6 @@
                                 <div class="details">
                                     <div>opened by bdougie in <span class="repo">open-sauced/hot</span></div>
                                     <div class="comment">.take</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">TAKANOME-DEV/hot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">beta</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#38dbffa</div>
-                                        <div class="message">chore(patch): release 2.24.3-beta.1 on beta channel [skip ci]
-
-### [2.24.3-beta.1](https://github.com/open-sauced/hot-sauce/compare/v2.24.2...v2.24.3-beta.1) (2022-08-30)
-
-### 🐛 Bug Fixes
-
-* correct tailwind antipattern ([#326](https://github.com/open-sauced/hot-sauce/issues/326)) ([a6f2c8f](https://github.com/open-sauced/hot-sauce/commit/a6f2c8f655c594bdbe008ca5f01131c641dc18ae)), closes [#318](https://github.com/open-sauced/hot-sauce/issues/318)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6f2c8f</div>
-                                        <div class="message">fix: correct tailwind antipattern (#326)
-
-Fixes #318</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec4ff39</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
-
-* origin/main:
-  chore(patch): release 2.24.2 [skip ci]
-  refactor: add submit a repo to the nav (#310)
-  chore(patch): release 2.24.1 [skip ci]
-  refactor: use outsideclickref instead of query selector (#319)
-  chore(minor): release 2.24.0 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b879efd</div>
-                                        <div class="message">chore(patch): release 2.24.2 [skip ci]
-
-### [2.24.2](https://github.com/open-sauced/hot-sauce/compare/v2.24.1...v2.24.2) (2022-08-24)
-
-### 🧑‍💻 Code Refactoring
-
-* add submit a repo to the nav ([#310](https://github.com/open-sauced/hot-sauce/issues/310)) ([14c988a](https://github.com/open-sauced/hot-sauce/commit/14c988ae85ea05f06d213764789af00b16f7898e)), closes [#301](https://github.com/open-sauced/hot-sauce/issues/301)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14c988a</div>
-                                        <div class="message">refactor: add submit a repo to the nav (#310)
-
-closes #301</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#257a2bc</div>
-                                        <div class="message">chore(patch): release 2.24.1 [skip ci]
-
-### [2.24.1](https://github.com/open-sauced/hot-sauce/compare/v2.24.0...v2.24.1) (2022-08-22)
-
-### 🧑‍💻 Code Refactoring
-
-* use outsideclickref instead of query selector ([#319](https://github.com/open-sauced/hot-sauce/issues/319)) ([6efdfe0](https://github.com/open-sauced/hot-sauce/commit/6efdfe0713c59f179f8259266dbc2b519379ba07)), closes [#311](https://github.com/open-sauced/hot-sauce/issues/311)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6efdfe0</div>
-                                        <div class="message">refactor: use outsideclickref instead of query selector (#319)
-
-* refactor: use outsideclickref instead of query selector
-
-* missing staged change
-
-fixes #311</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1113946</div>
-                                        <div class="message">chore(minor): release 2.24.0 [skip ci]
-
-## [2.24.0](https://github.com/open-sauced/hot-sauce/compare/v2.23.3...v2.24.0) (2022-08-19)
-
-### 🍕 Features
-
-* **primarynav:** adding AIOutlineStar icon and Star us on Github text to PrimaryNav ([#293](https://github.com/open-sauced/hot-sauce/issues/293)) ([b27acb5](https://github.com/open-sauced/hot-sauce/commit/b27acb5218657369ef6f19a5d12e09ae2443fa1d))
-
-### 🐛 Bug Fixes
-
-* correct missing slice breaking render ([349ef59](https://github.com/open-sauced/hot-sauce/commit/349ef59155b70bb4806465461dc6114f788d5c35))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb029b6</div>
-                                        <div class="message">Merge pull request #320 from open-sauced/beta
-
-2.24.0-beta.2 -&gt; Production</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64138b0</div>
-                                        <div class="message">chore(patch): release 2.24.0-beta.2 on beta channel [skip ci]
-
-## [2.24.0-beta.2](https://github.com/open-sauced/hot-sauce/compare/v2.24.0-beta.1...v2.24.0-beta.2) (2022-08-19)
-
-### 🐛 Bug Fixes
-
-* correct missing slice breaking render ([349ef59](https://github.com/open-sauced/hot-sauce/commit/349ef59155b70bb4806465461dc6114f788d5c35))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#349ef59</div>
-                                        <div class="message">fix: correct missing slice breaking render</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89e0e08</div>
-                                        <div class="message">chore(minor): release 2.24.0-beta.1 on beta channel [skip ci]
-
-## [2.24.0-beta.1](https://github.com/open-sauced/hot-sauce/compare/v2.23.3...v2.24.0-beta.1) (2022-08-16)
-
-### 🍕 Features
-
-* **primarynav:** adding AIOutlineStar icon and Star us on Github text to PrimaryNav ([#293](https://github.com/open-sauced/hot-sauce/issues/293)) ([b27acb5](https://github.com/open-sauced/hot-sauce/commit/b27acb5218657369ef6f19a5d12e09ae2443fa1d))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b27acb5</div>
-                                        <div class="message">feat(primarynav): adding AIOutlineStar icon and Star us on Github text to PrimaryNav (#293)
-
-* feat(primarynav): adding AIOutlineStar icon and Star us on Github text to PrimaryNav
-
-* added the link to the repo, changed star us text to a span and put space between the icon and text in PrimaryNav.tsx
-
-* feat: Moving AIOutlineStar icon and star us on github text closer to sign in button. Hiding it on mobile.
-
-* feat: Fixed alignment of sign in button on mobile
-
-* feat: Added icon and star us on GitHub text when logged in.
-
-* feat: added StarTheRepo component
-
-* feat(primarynav.tsx): removed hidden on line 31, added font-light, moved div to 65
-
-feat #293
-
-* feat(primarynav.tsx): made StarTheRepo hidden on mobile and sm:flex
-
-feat #293</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
