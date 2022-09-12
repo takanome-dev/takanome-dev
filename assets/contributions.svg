@@ -201,14 +201,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#36c2af6</div>
-                                        <div class="message">Merge pull request #39 from TAKANOME-DEV/renovate/pin-dependencies
+                                        <div class="sha">#0635906</div>
+                                        <div class="message">Merge pull request #46 from TAKANOME-DEV/renovate/eslint-8.x
 
-Pin dependencies</div>
+Update dependency eslint to v8.23.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c458013</div>
-                                        <div class="message">Pin dependencies</div>
+                                        <div class="sha">#9317057</div>
+                                        <div class="message">Update dependency eslint to v8.23.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -222,7 +222,7 @@ Pin dependencies</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">renovate/pin-dependencies</span>
+                                        <span class="code">renovate/eslint-8.x</span>
                                         in
                                         <span class="repo">TAKANOME-DEV/assign-to-me-action</span>
                                     </div>
@@ -237,12 +237,12 @@ Pin dependencies</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#39 Pin dependencies</span>
+                                        <span class="issue">#46 Update dependency eslint to v8.23.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">TAKANOME-DEV/assign-to-me-action</span></div>
-                                    <div>2 files changed <span class="code">++10 --10</span></div>
+                                    <div>2 files changed <span class="code">++52 --42</span></div>
                                 </div>
                             </section>
                         </div>
@@ -254,7 +254,7 @@ Pin dependencies</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#39 Pin dependencies</span>
+                                        <span class="issue">#46 Update dependency eslint to v8.23.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -276,14 +276,14 @@ Pin dependencies</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6705063</div>
-                                        <div class="message">Merge pull request #48 from TAKANOME-DEV/renovate/babel-monorepo
+                                        <div class="sha">#d03daf1</div>
+                                        <div class="message">Merge pull request #47 from TAKANOME-DEV/renovate/eslint-plugin-jest-27.x
 
-Update dependency @babel/preset-env to v7.19.0</div>
+Update dependency eslint-plugin-jest to v27</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#81c23e3</div>
-                                        <div class="message">Update dependency @babel/preset-env to v7.19.0</div>
+                                        <div class="sha">#6ad710a</div>
+                                        <div class="message">Update dependency eslint-plugin-jest to v27</div>
                                     </div>
                                 </div>
                             </section>
