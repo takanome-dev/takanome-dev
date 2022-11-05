@@ -8,7 +8,7 @@ on:
   schedule: [{ cron: '0 0 * * *' }]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
-  # push: { branches: ['master'] }
+  push: { branches: ['master'] }
 
 jobs:
   metrics:
@@ -32,22 +32,49 @@ jobs:
         with:
           filename: assets/contributions.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_order: languages, notable, topics, activity
+          config_order: languages, notable
           base: ''
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           plugin_notable: yes
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          # plugin_topics: yes
+          # plugin_topics_limit: 0
+          # plugin_topics_mode: icons
+
+      - name: 🦑 Activities
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/activities.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+
+      - name: 🦑 Coding Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          # plugin_habits_from: 200
+          # plugin_habits_skipped
+          # plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          # plugin_habits_charts_type: chartist
+          # plugin_habits_trim: no
+          # plugin_habits_languages_limit: 8
+          # plugin_habits_languages_threshold: 0%
+          # config_timezone: Europe/Paris
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
@@ -61,7 +88,28 @@ jobs:
           # plugin_lines_history_limit: 1
           # plugin_lines_repositories_limit: 4
           # plugin_lines_sections: base
+
+      - name: 🦑 Followup
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/followups.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          base_indepth: yes
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: repositories, user
+
+      - name: 🦑 Latest tweets including attachments
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/tweets.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_user: takanome_dev
+          plugin_tweets_limit: 3
