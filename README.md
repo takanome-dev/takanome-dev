@@ -109,12 +109,12 @@
 <img align="left" src="./assets/contributions.svg" width="45%" style="margin-right: 5%; margin-bottom: 10%;" />
 <img align="right" src="./assets/followups.svg" width="50%" />
 
----
+<!-- ---
 
 <details>
   <summary>💻 Coding Habits</summary>
   <img src="./assets/habits.svg" />
-</details>
+</details> -->
 
 ---
 
