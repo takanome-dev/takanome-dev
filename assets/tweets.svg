@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="636" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="519" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             takanome_dev
                         </div>
                         <div class="tweet">
+                            <span class="mention">@eddiejaoude</span>
+                            The spell checker vscode extension help me a lot contributing to open source by fixing typos 😂
+                            <div class="date">17:09:44 on 17 Nov 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@bdougieYO</span>
                             : In case Twitter goes out.
@@ -34,7 +39,7 @@
                                     <span style="display: none;">Hack to avoid self-closing empty div, do not remove</span>
                                     <div class="infos">
                                         <div class="title">Join the OpenSauced Discord Server!</div>
-                                        <div class="description">Check out the OpenSauced community on Discord - hang out with 803 other members and enjoy free voice and text chat.</div>
+                                        <div class="description">Check out the OpenSauced community on Discord - hang out with 802 other members and enjoy free voice and text chat.</div>
                                     </div>
                                 </div>
                             </div>
@@ -44,27 +49,6 @@
                             <span class="mention">@aniqatc</span>
                             Really cool 🔥
                             <div class="date">17:17:43 on 12 Nov 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@FrancescoCiull4</span>
-                            : 🟣Tech and Content Creation Space🟣
-                            <br />
-                            <br />
-                            <span class="mention">@DeniTechh</span>
-                            <br />
-                            <span class="mention">@WeAreDevs</span>
-                            <br />
-                            <span class="mention">@lovelacecoding</span>
-                            <br />
-                            <span class="mention">@ShawnBasquiat</span>
-                            <br />
-                            <span class="mention">@Mansourabv</span>
-                            <br />
-                            <span class="mention">@GrahamTheDev</span>
-                            <br />
-                            @Avi…
-                            <div class="date">17:15:53 on 12 Nov 2022</div>
                         </div>
                     </section>
                 </div>
