@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="863" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="675" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,49 +19,59 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#742 feat: add hover card and expand on contributor stack</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">open-sauced/insights</span></div>
-                                    <div>5 files changed <span class="code">++233 --4</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">683-contributor-hover-card</span>
-                                        in
+                                        Pushed 7 commits in
                                         <span class="repo">TAKANOME-DEV/insights</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#741 Bug: All contributor's card expands when one of them is clicked</span>
-                                    </div>
-                                </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">open-sauced/insights</span></div>
+                                    <div>on branch <span class="code">683-contributor-hover-card</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2797371</div>
+                                        <div class="message">feat: update contributor hover card</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f30f3ed</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/beta' into 683-contributor-hover-card</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6992547</div>
+                                        <div class="message">chore(minor): release 1.23.0-beta.2 on beta channel [skip ci]
+
+## [1.23.0-beta.2](https://github.com/open-sauced/insights/compare/v1.23.0-beta.1...v1.23.0-beta.2) (2022-12-27)
+
+### 🍕 Features
+
+* change name to enhace from logarithmic ([#743](https://github.com/open-sauced/insights/issues/743)) ([4384324](https://github.com/open-sauced/insights/commit/43843246c9d7d6b4aed586754f4673f56070206e))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4384324</div>
+                                        <div class="message">feat: change name to enhace from logarithmic (#743)
+
+fix: change name to enhace from logarithmic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb04ad5</div>
+                                        <div class="message">chore(minor): release 1.23.0-beta.1 on beta channel [skip ci]
+
+## [1.23.0-beta.1](https://github.com/open-sauced/insights/compare/v1.22.2...v1.23.0-beta.1) (2022-12-26)
+
+### 🍕 Features
+
+* adjust search font-size ([c451450](https://github.com/open-sauced/insights/commit/c4514509a0580125495b391c5f905e513f5c70ea))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b24646c</div>
+                                        <div class="message">Merge pull request #737 from open-sauced/adjust-search-fontsize
+
+feat: adjust search font-size</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c451450</div>
+                                        <div class="message">feat: adjust search font-size</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -72,138 +82,55 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 15 commits in
+                                        Pushed 7 commits in
                                         <span class="repo">TAKANOME-DEV/insights</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">689-close-when-click-outside</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6678f56</div>
-                                        <div class="message">fix: handle select limit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af5cc3b</div>
+                                        <div class="sha">#95ea5be</div>
                                         <div class="message">Merge remote-tracking branch 'origin/beta' into 689-close-when-click-outside</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d8028e5</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
-
-* origin/main:
-  chore(patch): release 1.22.2 [skip ci]</div>
+                                        <div class="sha">#3613ed0</div>
+                                        <div class="message">feat: update select dropdown position</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aedcb02</div>
-                                        <div class="message">chore(patch): release 1.22.2 [skip ci]
+                                        <div class="sha">#6992547</div>
+                                        <div class="message">chore(minor): release 1.23.0-beta.2 on beta channel [skip ci]
 
-### [1.22.2](https://github.com/open-sauced/insights/compare/v1.22.1...v1.22.2) (2022-12-23)
-
-### ⏩ Reverts
-
-* Revert "feat: add sorting by column type on repositories screen (#662)" ([5436712](https://github.com/open-sauced/insights/commit/5436712ce203bdb43c5f6fec92751c0d2bf711e2)), closes [#662](https://github.com/open-sauced/insights/issues/662)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7d5807</div>
-                                        <div class="message">Merge pull request #731 from open-sauced/beta
-
-v1.22.2-beta.1 -&gt; production</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#347383c</div>
-                                        <div class="message">chore(patch): release 1.22.2-beta.1 on beta channel [skip ci]
-
-### [1.22.2-beta.1](https://github.com/open-sauced/insights/compare/v1.22.1...v1.22.2-beta.1) (2022-12-23)
-
-### ⏩ Reverts
-
-* Revert "feat: add sorting by column type on repositories screen (#662)" ([5436712](https://github.com/open-sauced/insights/commit/5436712ce203bdb43c5f6fec92751c0d2bf711e2)), closes [#662](https://github.com/open-sauced/insights/issues/662)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5436712</div>
-                                        <div class="message">Revert "feat: add sorting by column type on repositories screen (#662)"
-
-This reverts commit d5880321ed82d5c505c74c6f797e70d5895803b6.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b73577</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
-
-* origin/main:
-  chore(patch): release 1.22.1 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#837849d</div>
-                                        <div class="message">chore(patch): release 1.22.1 [skip ci]
-
-### [1.22.1](https://github.com/open-sauced/insights/compare/v1.22.0...v1.22.1) (2022-12-23)
-
-### 🐛 Bug Fixes
-
-* add wrapper element for Link usage on table repo name ([#727](https://github.com/open-sauced/insights/issues/727)) ([beb767a](https://github.com/open-sauced/insights/commit/beb767a5030ae942074a4491677e09117bab6b70)), closes [#726](https://github.com/open-sauced/insights/issues/726)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d659498</div>
-                                        <div class="message">Merge pull request #729 from open-sauced/beta
-
-v1.22.1-beta.1 -&gt; production</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#401fedc</div>
-                                        <div class="message">chore(patch): release 1.22.1-beta.1 on beta channel [skip ci]
-
-### [1.22.1-beta.1](https://github.com/open-sauced/insights/compare/v1.22.0...v1.22.1-beta.1) (2022-12-23)
-
-### 🐛 Bug Fixes
-
-* add wrapper element for Link usage on table repo name ([#727](https://github.com/open-sauced/insights/issues/727)) ([beb767a](https://github.com/open-sauced/insights/commit/beb767a5030ae942074a4491677e09117bab6b70)), closes [#726](https://github.com/open-sauced/insights/issues/726)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#beb767a</div>
-                                        <div class="message">fix: add wrapper element for Link usage on table repo name (#727)
-
-Closes #726</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b69b9a</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
-
-* origin/main:
-  chore(minor): release 1.22.0 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f635d6e</div>
-                                        <div class="message">chore(minor): release 1.22.0 [skip ci]
-
-## [1.22.0](https://github.com/open-sauced/insights/compare/v1.21.0...v1.22.0) (2022-12-22)
-
-### ✅ Tests
-
-* implement automatic notifications for foss ([#679](https://github.com/open-sauced/insights/issues/679)) ([75f3aaf](https://github.com/open-sauced/insights/commit/75f3aaf3e97f79a88a1e032302e50d78b92f5e61))
-
-### 🐛 Bug Fixes
-
-* fixed status footer 404 error ([#699](https://github.com/open-sauced/insights/issues/699)) ([e14a976](https://github.com/open-sauced/insights/commit/e14a9769a8a9715aad7a0e9651ae166bed41d8ac)), closes [#656](https://github.com/open-sauced/insights/issues/656)
-* handle caching issues with local storage ([#676](https://github.com/open-sauced/insights/issues/676)) ([e332d84](https://github.com/open-sauced/insights/commit/e332d84bafbe830bf269a62e14a4a9e93fb34eb2)), closes [#617](https://github.com/open-sauced/insights/issues/617)
-* update generic profile page styles to match design ([#695](https://github.com/open-sauced/insights/issues/695)) ([3eabf0f](https://github.com/open-sauced/insights/commit/3eabf0f95fb57acb5b1510ee0e32946c9e9d01eb)), closes [#692](https://github.com/open-sauced/insights/issues/692)
+## [1.23.0-beta.2](https://github.com/open-sauced/insights/compare/v1.23.0-beta.1...v1.23.0-beta.2) (2022-12-27)
 
 ### 🍕 Features
 
-* add sorting by column type on repositories screen ([#662](https://github.com/open-sauced/insights/issues/662)) ([d588032](https://github.com/open-sauced/insights/commit/d5880321ed82d5c505c74c6f797e70d5895803b6)), closes [#627](https://github.com/open-sauced/insights/issues/627)
-* add Stripe checkout integration ([#702](https://github.com/open-sauced/insights/issues/702)) ([f4da7af](https://github.com/open-sauced/insights/commit/f4da7afc4de577de869da292c35b3cbd43d801c6)), closes [#394](https://github.com/open-sauced/insights/issues/394)
-* add support for goto page functionality ([#708](https://github.com/open-sauced/insights/issues/708)) ([1902a98](https://github.com/open-sauced/insights/commit/1902a983420bde31173771b6fcba97b708cf616e)), closes [#675](https://github.com/open-sauced/insights/issues/675)
-* add toggle group component ([#666](https://github.com/open-sauced/insights/issues/666)) ([3bc7d8c](https://github.com/open-sauced/insights/commit/3bc7d8cda7047df921b8fcda30380287988595e9))
-* filter recent contributions array by last updated time ([#690](https://github.com/open-sauced/insights/issues/690)) ([063b07c](https://github.com/open-sauced/insights/commit/063b07c239590b93bd1f202362296aa691f3a281)), closes [#682](https://github.com/open-sauced/insights/issues/682)
-* implement hover card functionality on scatterchart ([#643](https://github.com/open-sauced/insights/issues/643)) ([8249eb8](https://github.com/open-sauced/insights/commit/8249eb8ae822592f64cc5bc07836583d16641606))
-* implement image caching on avatar images ([#691](https://github.com/open-sauced/insights/issues/691)) ([b6fbeb4](https://github.com/open-sauced/insights/commit/b6fbeb407a5d933b91e5b885270ecd9da9a387c8))
-* link repos, prs, and contributors to GitHub ([#658](https://github.com/open-sauced/insights/issues/658)) ([79d16d0](https://github.com/open-sauced/insights/commit/79d16d0f7e76485b9ed9288e18753eac866516cc)), closes [#670](https://github.com/open-sauced/insights/issues/670) [#620](https://github.com/open-sauced/insights/issues/620) [#669](https://github.com/open-sauced/insights/issues/669)
-* remove the top5 ([#674](https://github.com/open-sauced/insights/issues/674)) ([d0720ef](https://github.com/open-sauced/insights/commit/d0720efea7f1932fbc68f8a8af8af13e89b698ff))</div>
+* change name to enhace from logarithmic ([#743](https://github.com/open-sauced/insights/issues/743)) ([4384324](https://github.com/open-sauced/insights/commit/43843246c9d7d6b4aed586754f4673f56070206e))</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#09c44e1</div>
-                                        <div class="message">Merge pull request #723 from open-sauced/beta
+                                        <div class="sha">#4384324</div>
+                                        <div class="message">feat: change name to enhace from logarithmic (#743)
 
-v1.22.0-beta.12 -&gt; main</div>
+fix: change name to enhace from logarithmic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb04ad5</div>
+                                        <div class="message">chore(minor): release 1.23.0-beta.1 on beta channel [skip ci]
+
+## [1.23.0-beta.1](https://github.com/open-sauced/insights/compare/v1.22.2...v1.23.0-beta.1) (2022-12-26)
+
+### 🍕 Features
+
+* adjust search font-size ([c451450](https://github.com/open-sauced/insights/commit/c4514509a0580125495b391c5f905e513f5c70ea))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b24646c</div>
+                                        <div class="message">Merge pull request #737 from open-sauced/adjust-search-fontsize
+
+feat: adjust search font-size</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c451450</div>
+                                        <div class="message">feat: adjust search font-size</div>
                                     </div>
                                 </div>
                             </section>
@@ -215,185 +142,92 @@ v1.22.0-beta.12 -&gt; main</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 22 commits in
+                                        Pushed 5 commits in
                                         <span class="repo">TAKANOME-DEV/insights</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">beta</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d7d5807</div>
-                                        <div class="message">Merge pull request #731 from open-sauced/beta
+                                        <div class="sha">#6992547</div>
+                                        <div class="message">chore(minor): release 1.23.0-beta.2 on beta channel [skip ci]
 
-v1.22.2-beta.1 -&gt; production</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#347383c</div>
-                                        <div class="message">chore(patch): release 1.22.2-beta.1 on beta channel [skip ci]
-
-### [1.22.2-beta.1](https://github.com/open-sauced/insights/compare/v1.22.1...v1.22.2-beta.1) (2022-12-23)
-
-### ⏩ Reverts
-
-* Revert "feat: add sorting by column type on repositories screen (#662)" ([5436712](https://github.com/open-sauced/insights/commit/5436712ce203bdb43c5f6fec92751c0d2bf711e2)), closes [#662](https://github.com/open-sauced/insights/issues/662)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5436712</div>
-                                        <div class="message">Revert "feat: add sorting by column type on repositories screen (#662)"
-
-This reverts commit d5880321ed82d5c505c74c6f797e70d5895803b6.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b73577</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
-
-* origin/main:
-  chore(patch): release 1.22.1 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#837849d</div>
-                                        <div class="message">chore(patch): release 1.22.1 [skip ci]
-
-### [1.22.1](https://github.com/open-sauced/insights/compare/v1.22.0...v1.22.1) (2022-12-23)
-
-### 🐛 Bug Fixes
-
-* add wrapper element for Link usage on table repo name ([#727](https://github.com/open-sauced/insights/issues/727)) ([beb767a](https://github.com/open-sauced/insights/commit/beb767a5030ae942074a4491677e09117bab6b70)), closes [#726](https://github.com/open-sauced/insights/issues/726)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d659498</div>
-                                        <div class="message">Merge pull request #729 from open-sauced/beta
-
-v1.22.1-beta.1 -&gt; production</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#401fedc</div>
-                                        <div class="message">chore(patch): release 1.22.1-beta.1 on beta channel [skip ci]
-
-### [1.22.1-beta.1](https://github.com/open-sauced/insights/compare/v1.22.0...v1.22.1-beta.1) (2022-12-23)
-
-### 🐛 Bug Fixes
-
-* add wrapper element for Link usage on table repo name ([#727](https://github.com/open-sauced/insights/issues/727)) ([beb767a](https://github.com/open-sauced/insights/commit/beb767a5030ae942074a4491677e09117bab6b70)), closes [#726](https://github.com/open-sauced/insights/issues/726)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#beb767a</div>
-                                        <div class="message">fix: add wrapper element for Link usage on table repo name (#727)
-
-Closes #726</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b69b9a</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
-
-* origin/main:
-  chore(minor): release 1.22.0 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f635d6e</div>
-                                        <div class="message">chore(minor): release 1.22.0 [skip ci]
-
-## [1.22.0](https://github.com/open-sauced/insights/compare/v1.21.0...v1.22.0) (2022-12-22)
-
-### ✅ Tests
-
-* implement automatic notifications for foss ([#679](https://github.com/open-sauced/insights/issues/679)) ([75f3aaf](https://github.com/open-sauced/insights/commit/75f3aaf3e97f79a88a1e032302e50d78b92f5e61))
-
-### 🐛 Bug Fixes
-
-* fixed status footer 404 error ([#699](https://github.com/open-sauced/insights/issues/699)) ([e14a976](https://github.com/open-sauced/insights/commit/e14a9769a8a9715aad7a0e9651ae166bed41d8ac)), closes [#656](https://github.com/open-sauced/insights/issues/656)
-* handle caching issues with local storage ([#676](https://github.com/open-sauced/insights/issues/676)) ([e332d84](https://github.com/open-sauced/insights/commit/e332d84bafbe830bf269a62e14a4a9e93fb34eb2)), closes [#617](https://github.com/open-sauced/insights/issues/617)
-* update generic profile page styles to match design ([#695](https://github.com/open-sauced/insights/issues/695)) ([3eabf0f](https://github.com/open-sauced/insights/commit/3eabf0f95fb57acb5b1510ee0e32946c9e9d01eb)), closes [#692](https://github.com/open-sauced/insights/issues/692)
+## [1.23.0-beta.2](https://github.com/open-sauced/insights/compare/v1.23.0-beta.1...v1.23.0-beta.2) (2022-12-27)
 
 ### 🍕 Features
 
-* add sorting by column type on repositories screen ([#662](https://github.com/open-sauced/insights/issues/662)) ([d588032](https://github.com/open-sauced/insights/commit/d5880321ed82d5c505c74c6f797e70d5895803b6)), closes [#627](https://github.com/open-sauced/insights/issues/627)
-* add Stripe checkout integration ([#702](https://github.com/open-sauced/insights/issues/702)) ([f4da7af](https://github.com/open-sauced/insights/commit/f4da7afc4de577de869da292c35b3cbd43d801c6)), closes [#394](https://github.com/open-sauced/insights/issues/394)
-* add support for goto page functionality ([#708](https://github.com/open-sauced/insights/issues/708)) ([1902a98](https://github.com/open-sauced/insights/commit/1902a983420bde31173771b6fcba97b708cf616e)), closes [#675](https://github.com/open-sauced/insights/issues/675)
-* add toggle group component ([#666](https://github.com/open-sauced/insights/issues/666)) ([3bc7d8c](https://github.com/open-sauced/insights/commit/3bc7d8cda7047df921b8fcda30380287988595e9))
-* filter recent contributions array by last updated time ([#690](https://github.com/open-sauced/insights/issues/690)) ([063b07c](https://github.com/open-sauced/insights/commit/063b07c239590b93bd1f202362296aa691f3a281)), closes [#682](https://github.com/open-sauced/insights/issues/682)
-* implement hover card functionality on scatterchart ([#643](https://github.com/open-sauced/insights/issues/643)) ([8249eb8](https://github.com/open-sauced/insights/commit/8249eb8ae822592f64cc5bc07836583d16641606))
-* implement image caching on avatar images ([#691](https://github.com/open-sauced/insights/issues/691)) ([b6fbeb4](https://github.com/open-sauced/insights/commit/b6fbeb407a5d933b91e5b885270ecd9da9a387c8))
-* link repos, prs, and contributors to GitHub ([#658](https://github.com/open-sauced/insights/issues/658)) ([79d16d0](https://github.com/open-sauced/insights/commit/79d16d0f7e76485b9ed9288e18753eac866516cc)), closes [#670](https://github.com/open-sauced/insights/issues/670) [#620](https://github.com/open-sauced/insights/issues/620) [#669](https://github.com/open-sauced/insights/issues/669)
-* remove the top5 ([#674](https://github.com/open-sauced/insights/issues/674)) ([d0720ef](https://github.com/open-sauced/insights/commit/d0720efea7f1932fbc68f8a8af8af13e89b698ff))</div>
+* change name to enhace from logarithmic ([#743](https://github.com/open-sauced/insights/issues/743)) ([4384324](https://github.com/open-sauced/insights/commit/43843246c9d7d6b4aed586754f4673f56070206e))</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#09c44e1</div>
-                                        <div class="message">Merge pull request #723 from open-sauced/beta
+                                        <div class="sha">#4384324</div>
+                                        <div class="message">feat: change name to enhace from logarithmic (#743)
 
-v1.22.0-beta.12 -&gt; main</div>
+fix: change name to enhace from logarithmic</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#06422d8</div>
-                                        <div class="message">chore(minor): release 1.22.0-beta.12 on beta channel [skip ci]
+                                        <div class="sha">#eb04ad5</div>
+                                        <div class="message">chore(minor): release 1.23.0-beta.1 on beta channel [skip ci]
 
-## [1.22.0-beta.12](https://github.com/open-sauced/insights/compare/v1.22.0-beta.11...v1.22.0-beta.12) (2022-12-22)
+## [1.23.0-beta.1](https://github.com/open-sauced/insights/compare/v1.22.2...v1.23.0-beta.1) (2022-12-26)
 
 ### 🍕 Features
 
-* add Stripe checkout integration ([#702](https://github.com/open-sauced/insights/issues/702)) ([f4da7af](https://github.com/open-sauced/insights/commit/f4da7afc4de577de869da292c35b3cbd43d801c6)), closes [#394](https://github.com/open-sauced/insights/issues/394)</div>
+* adjust search font-size ([c451450](https://github.com/open-sauced/insights/commit/c4514509a0580125495b391c5f905e513f5c70ea))</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f4da7af</div>
-                                        <div class="message">feat: add Stripe checkout integration (#702)
+                                        <div class="sha">#b24646c</div>
+                                        <div class="message">Merge pull request #737 from open-sauced/adjust-search-fontsize
 
-Closes #394</div>
+feat: adjust search font-size</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c64c35e</div>
-                                        <div class="message">chore(minor): release 1.22.0-beta.11 on beta channel [skip ci]
-
-## [1.22.0-beta.11](https://github.com/open-sauced/insights/compare/v1.22.0-beta.10...v1.22.0-beta.11) (2022-12-22)
-
-### 🍕 Features
-
-* add support for goto page functionality ([#708](https://github.com/open-sauced/insights/issues/708)) ([1902a98](https://github.com/open-sauced/insights/commit/1902a983420bde31173771b6fcba97b708cf616e)), closes [#675](https://github.com/open-sauced/insights/issues/675)</div>
+                                        <div class="sha">#c451450</div>
+                                        <div class="message">feat: adjust search font-size</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#1902a98</div>
-                                        <div class="message">feat: add support for goto page functionality (#708)
-
-Closes #675</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#742 feat: add hover card and expand on contributor stack</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f4db12</div>
-                                        <div class="message">chore(minor): release 1.22.0-beta.10 on beta channel [skip ci]
-
-## [1.22.0-beta.10](https://github.com/open-sauced/insights/compare/v1.22.0-beta.9...v1.22.0-beta.10) (2022-12-21)
-
-### 🍕 Features
-
-* add toggle group component ([#666](https://github.com/open-sauced/insights/issues/666)) ([3bc7d8c](https://github.com/open-sauced/insights/commit/3bc7d8cda7047df921b8fcda30380287988595e9))</div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by TAKANOME-DEV in <span class="repo">open-sauced/insights</span></div>
+                                    <div class="comment">
+                                        <i>This needs to be corrected. As I mentioned in my note from the issue, we are only copying the expansion of avatars from the hot repo. The functionality of the hover radix should be copied. The nivo chart can not be hovered over due to a limit of nivo chart. This limitation does not exist elsewhere.
+The hovercard should be the same hovercard used on the contributor calendar</i>
+                                        So, if I understand correctly, when hovering the staked avatar, they should expand and when one of them is hovered, the hovercard used in the contributor calendar should appear. Is that correct?
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bc7d8c</div>
-                                        <div class="message">feat: add toggle group component (#666)</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#741 Bug: All contributor's card expands when one of them is clicked</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#e502723</div>
-                                        <div class="message">chore(minor): release 1.22.0-beta.9 on beta channel [skip ci]
-
-## [1.22.0-beta.9](https://github.com/open-sauced/insights/compare/v1.22.0-beta.8...v1.22.0-beta.9) (2022-12-21)
-
-### 🐛 Bug Fixes
-
-* fixed status footer 404 error ([#699](https://github.com/open-sauced/insights/issues/699)) ([e14a976](https://github.com/open-sauced/insights/commit/e14a9769a8a9715aad7a0e9651ae166bed41d8ac)), closes [#656](https://github.com/open-sauced/insights/issues/656)
-
-### 🍕 Features
-
-* add sorting by column type on repositories screen ([#662](https://github.com/open-sauced/insights/issues/662)) ([d588032](https://github.com/open-sauced/insights/commit/d5880321ed82d5c505c74c6f797e70d5895803b6)), closes [#627](https://github.com/open-sauced/insights/issues/627)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d588032</div>
-                                        <div class="message">feat: add sorting by column type on repositories screen (#662)
-
-Closes #627</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e14a976</div>
-                                        <div class="message">fix: fixed status footer 404 error (#699)
-
-Closes #656</div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by TAKANOME-DEV in <span class="repo">open-sauced/insights</span></div>
+                                    <div class="comment">
+                                        <i>The min-height is not a bug and is intentional. What is a proposed solution?</i>
+                                        Oh make sense, I was thinking about only expanding the one who was clicked. But it doesn't seem a good solution.
+I would say that we keep the current implementation until we have better approach.
+                                        <i>The duplication is a known issue we can solve when requesting users to create custom profiles. Though that should be opened on a new issue and has. https://github.com/open-sauced/insights/issues/541 
+Perhaps we reopen that issue</i>
+                                        Yeah, reopening that issue seems a good idea.
                                     </div>
                                 </div>
                             </section>
