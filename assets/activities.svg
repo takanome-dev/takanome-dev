@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="485" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="353" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,128 +19,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">TAKANOME-DEV/insights</span>
+                                        Closed
+                                        <span class="issue">#24 Feature: update text size and color for the subscribe card</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">beta</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6f01c0</div>
-                                        <div class="message">chore(patch): release 1.23.1-beta.1 on beta channel [skip ci]
-
-### [1.23.1-beta.1](https://github.com/open-sauced/insights/compare/v1.23.0...v1.23.1-beta.1) (2023-01-05)
-
-### 🐛 Bug Fixes
-
-* correct icon loading and double ci processing ([#764](https://github.com/open-sauced/insights/issues/764)) ([f1f766e](https://github.com/open-sauced/insights/commit/f1f766ef008ea9ce1b904907f3c16ec57d15d379)), closes [#211](https://github.com/open-sauced/insights/issues/211)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1f766e</div>
-                                        <div class="message">fix: correct icon loading and double ci processing (#764)
-
-* fix: correct icon loading and double ci processing
-
-closes #211
-
-* fix: correct netlify env and raise loader priority
-
-* test: correct netlify rebuild
-
-* fix: remove avatar component console.log</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9248915</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
-
-* origin/main:
-  chore(minor): release 1.23.0 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#359c26c</div>
-                                        <div class="message">chore(minor): release 1.23.0 [skip ci]
-
-## [1.23.0](https://github.com/open-sauced/insights/compare/v1.22.2...v1.23.0) (2023-01-05)
-
-### 🧑‍💻 Code Refactoring
-
-* update pr velocity indicator ([#707](https://github.com/open-sauced/insights/issues/707)) ([7e96735](https://github.com/open-sauced/insights/commit/7e96735cb35f0436e0af5cf5bc13d8f51d441220)), closes [#684](https://github.com/open-sauced/insights/issues/684)
-
-### 🐛 Bug Fixes
-
-* add missing title props ([cdcc28d](https://github.com/open-sauced/insights/commit/cdcc28d615dbc04815327e10ff5e4a211a6b9503))
-* correct some tooling and dependency issues ([#749](https://github.com/open-sauced/insights/issues/749)) ([cb4ec9f](https://github.com/open-sauced/insights/commit/cb4ec9fa8c9d996fb6e6facf9b11fd35af177424))
-* only pull insights for stacked avatar on insight pages ([#761](https://github.com/open-sauced/insights/issues/761)) ([80ae119](https://github.com/open-sauced/insights/commit/80ae1192be9bc64f617aee39e3cd27683400a5c0))
-* overflow x bug on dashboard ([#709](https://github.com/open-sauced/insights/issues/709)) ([b022dbc](https://github.com/open-sauced/insights/commit/b022dbc4a2d389bb3a364038797a1089f8351888)), closes [#677](https://github.com/open-sauced/insights/issues/677)
-* user profile auth avatar processing errors ([#755](https://github.com/open-sauced/insights/issues/755)) ([3ba87a6](https://github.com/open-sauced/insights/commit/3ba87a6b448f6aae9b8b0c8415dab5b1a3baf13f)), closes [#733](https://github.com/open-sauced/insights/issues/733)
-
-### 🍕 Features
-
-* add Edit Page button to insight pages ([#738](https://github.com/open-sauced/insights/issues/738)) ([bde1eb8](https://github.com/open-sauced/insights/commit/bde1eb88e5409bc65cf79b9d4fc806ec030ec86b)), closes [#685](https://github.com/open-sauced/insights/issues/685)
-* add favorite repos on the design system ([#744](https://github.com/open-sauced/insights/issues/744)) ([c8660b5](https://github.com/open-sauced/insights/commit/c8660b5fec5f872f04554524bd8329da1e8860c8)), closes [#717](https://github.com/open-sauced/insights/issues/717)
-* add hover card and expand on contributor stack ([#742](https://github.com/open-sauced/insights/issues/742)) ([9f45b3d](https://github.com/open-sauced/insights/commit/9f45b3dc85f9a1b9a7c398ceb0929a899d707666))
-* adjust search font-size ([c451450](https://github.com/open-sauced/insights/commit/c4514509a0580125495b391c5f905e513f5c70ea))
-* change name to enhace from logarithmic ([#743](https://github.com/open-sauced/insights/issues/743)) ([4384324](https://github.com/open-sauced/insights/commit/43843246c9d7d6b4aed586754f4673f56070206e))
-* enable repository selection &amp; add to new insights page ([#693](https://github.com/open-sauced/insights/issues/693)) ([ba6405d](https://github.com/open-sauced/insights/commit/ba6405d1f983709f7ea1a5da0d43a82ae18299ef)), closes [#593](https://github.com/open-sauced/insights/issues/593) [#592](https://github.com/open-sauced/insights/issues/592)
-* Filter dashboard scatter plot by PR states ([#736](https://github.com/open-sauced/insights/issues/736)) ([f04093a](https://github.com/open-sauced/insights/commit/f04093ac500d48b22a14aebb2364a16fd81a2b37))
-* handle close modal when click outside and improve select usage ([#705](https://github.com/open-sauced/insights/issues/705)) ([105a47b](https://github.com/open-sauced/insights/commit/105a47b5e27d48ee60ef8d4b1ed06a08dbaba3e7)), closes [#689](https://github.com/open-sauced/insights/issues/689)
-* update icon PR  details row ([#706](https://github.com/open-sauced/insights/issues/706)) ([dac42ba](https://github.com/open-sauced/insights/commit/dac42bab1065f184107482ed8e69c937bc4bf088)), closes [#696](https://github.com/open-sauced/insights/issues/696)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1236d78</div>
-                                        <div class="message">Merge pull request #762 from open-sauced/beta
-
-v1.23.0-beta.13 -&gt; production</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db5eddf</div>
-                                        <div class="message">chore(minor): release 1.23.0-beta.13 on beta channel [skip ci]
-
-## [1.23.0-beta.13](https://github.com/open-sauced/insights/compare/v1.23.0-beta.12...v1.23.0-beta.13) (2023-01-05)
-
-### 🍕 Features
-
-* update icon PR  details row ([#706](https://github.com/open-sauced/insights/issues/706)) ([dac42ba](https://github.com/open-sauced/insights/commit/dac42bab1065f184107482ed8e69c937bc4bf088)), closes [#696](https://github.com/open-sauced/insights/issues/696)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dac42ba</div>
-                                        <div class="message">feat: update icon PR  details row (#706)
-
-Fixes #696</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d075dee</div>
-                                        <div class="message">chore(patch): release 1.23.0-beta.12 on beta channel [skip ci]
-
-## [1.23.0-beta.12](https://github.com/open-sauced/insights/compare/v1.23.0-beta.11...v1.23.0-beta.12) (2023-01-05)
-
-### 🐛 Bug Fixes
-
-* only pull insights for stacked avatar on insight pages ([#761](https://github.com/open-sauced/insights/issues/761)) ([80ae119](https://github.com/open-sauced/insights/commit/80ae1192be9bc64f617aee39e3cd27683400a5c0))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80ae119</div>
-                                        <div class="message">fix: only pull insights for stacked avatar on insight pages (#761)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17364b1</div>
-                                        <div class="message">chore(patch): release 1.23.0-beta.11 on beta channel [skip ci]
-
-## [1.23.0-beta.11](https://github.com/open-sauced/insights/compare/v1.23.0-beta.10...v1.23.0-beta.11) (2023-01-05)
-
-### 🧑‍💻 Code Refactoring
-
-* update pr velocity indicator ([#707](https://github.com/open-sauced/insights/issues/707)) ([7e96735](https://github.com/open-sauced/insights/commit/7e96735cb35f0436e0af5cf5bc13d8f51d441220)), closes [#684](https://github.com/open-sauced/insights/issues/684)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e96735</div>
-                                        <div class="message">refactor: update pr velocity indicator (#707)
-
-Closes #684</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">TAKANOME-DEV/BlogHive</span></div>
                                 </div>
                             </section>
                         </div>
@@ -148,14 +36,32 @@ Closes #684</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">757-avatar-caching</span>
-                                        in
-                                        <span class="repo">TAKANOME-DEV/insights</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">TAKANOME-DEV/BlogHive</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b4bf731</div>
+                                        <div class="message">Feature: update text size and color for the subscribe card (#29)
+
+* fix: fixed footer
+
+* fix: fixed issues generated in the pr
+
+* fix: fixed issues generated in the pr
+
+* fix: fixed issues generated in the pr
+
+* feat: update text size and color for the subscribe card
+
+* fix: fixed issues generated in the pr
+
+* fix: fixed issues generated in the pr</div>
                                     </div>
                                 </div>
                             </section>
@@ -167,13 +73,29 @@ Closes #684</div>
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#759 feat: replace user avatar from github with the cached one</span>
+                                        Merged
+                                        <span class="issue">#29 Feature: update text size and color for the subscribe card</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">open-sauced/insights</span></div>
-                                    <div>2 files changed <span class="code">++6 --2</span></div>
+                                    <div>opened by dev-phantom in <span class="repo">TAKANOME-DEV/BlogHive</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#29 Feature: update text size and color for the subscribe card</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by dev-phantom in <span class="repo">TAKANOME-DEV/BlogHive</span></div>
                                 </div>
                             </section>
                         </div>
@@ -185,25 +107,19 @@ Closes #684</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#27 Feature: Update footer links</span>
+                                        <span class="issue">#22 Feature: add icons to features section</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by TAKANOME-DEV in <span class="repo">TAKANOME-DEV/BlogHive</span></div>
-                                    <div class="comment">@favourite1975 thanks for your interest in contributing i tohis project.
-Let me know if you have any question</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">remirror/remirror</span>
+                                    <div class="comment">
+                                        I think it a blue color mixed with teal: use
+                                        <code>bg-gradient-to-r from-blue-600 to-teal-300</code>
+                                        and try playing with the colors to see
+                                        <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAHgUlEQVR4nO1aW2gUVxielj61pbSl0FJaX0tb+l5Kn6IGTUyUagwar3jFVxPwSSiGFrQESpFUkMZKaWpToeClXijr7JzbTNbcV3MxxmuiMYm3qElsOOUb/JfZnYnupqazkfngJ5u5fd/85z//+c85YxgRIkSIECFChAgRImQFrfVLnPNCy7J+5JzblmX1PjGbMVarlJqPa4wXhDcNlmWVcc67LcvSnHPd2Niom5ubXXMcxz2Gc5ZldUkpvzJmOW8KPT09bzDG/gCJbdu6p6dHX79+XQ8MDOgbN264ht841t3d7V6Daxljh5LJ5OvGLONNg+M47wkhWoUQ+vz58y7hzZs39eDgoGu3bt1K/cZxWH9/vz537hyEQFCLUupdY5bwpqG5uflNznmHlFL39fWliIeGhvTw8LDPcJyEQdDFixc1XoBz3o7WNPKcNyjpnIKIS5cupQSMjIzo27dv6zt37vgMx3EeokgQXuCJmBNGHvP6IISowgMuXLjgPhQPB9Hdu3f1vXv39P37932G4zgPURAE4RCD/olEJYSozFfeNJim+SHn/H5bW1vK+3g4CRgdHdUPHjzQDx8+TDMcwzkSBOF4AYhpaWlBvxxNJBJz8o3XB6XU70opN/F4RYAEhI8ePdJjY2N6fHw8zXCMBEEwicHLIFMjrKWU9fnGmwYp5cdCiH+QeUkEHoqHQwAIJyYmpjSvIAj3ikGG5pw/Zox9lC+8Piil9qK4QDalFshWhNdIDLUIXgotixaWUn6fL7xp0Fq/bNv2QDKZdL1H4QcR2QrIFENhiZdCv0T/FkL0gytsXh+klCXw1JUrV1IhCG/m0gKZhpeAGGoNDE/ok4yxorB5fXAc5zfU2biBQhDeRMkZi8X08ePH3ayaizBcSyGJl0NmRsmqlPo1bF4fbNvuQ8KgVsDf/fv36y1btuhNmzal7NixY9MKSWqNjo4OhGNv2LxpSCaTb9u2PYlQwQ2w6upqvXHjRr18+XK9cOFCvWHDBr1r166cQ5NaA62LPo5JjZRysq2t7a1n8RYVFc0Ib/rbG4bR1NRUihDBhAI31NXVuV5fvHixLigo0CUlJe7/uGa6fRKJDa179epVtz9yzovD4vU5wLbtagxDyJgoQxF+5eXlrgjY0qVL9ebNm92Qmo4QhCONzyhxIcRxnK/D4vU5IJFI/HL27FnXUwcOHHBDsLCwMCVk2bJl/0kIwtHbH/HSSqmfw+INioC/scKCC3fs2KErKipSImCLFi1yQ/HUqVM+Eng4GzHUHyEELy2lPP0s3uLi4hnhDXKAg2IBwwUIEXpeIbDVq1frrVu36oMHD7pTzdOnT+vdu3fr+vr6nIVgWJNS2tnwrlq16rnzBjmgFZVYV1eXK6S0tNQnZP78+XrFihVumHqHp9ra2pyEICO3t7dDSGsmLyU/r82bN++58wY5oB3jJGwqB5ChjyI0FyxYoNeuXatrampyFoJWl1K2h8Ub5IAETmIVBkKWLFkypRCvrV+/Xu/bt2+6oeiExRvkABMncdG2bdt0WVnZM0WgSyAsDx8+nFU29gppamqCkFhYvD4HOI5ziIYjVGIIsWcJQbii1dCCuQxHGPNR+6Muz+Rdt27d/8IbFAE1VJBg8gEC9LenCcGoUFlZmVWJSgUJXhQFCWZ/SqnvwuL1OUBKWUHLUbhw+/btes2aNXru3LmBIpCtIRaisy1JMdFBIqJlKsdxyoN4EX0zzetzQCKRmIOTWFNHuGBzARUYChMMQ14RqM9zmaBQGFI/7O3tdcdzxticqXhXrlw5o7xGEIQQg1iTg7fgtaNHj7q1OTIukhOKFDgECWjnzp1u2GbbClSP4x6M+1LKgbB5fVBKnUCWhLdwE27G+Lxnzx43QyP0qqqqdENDg5tZc5mT0ziMRUokIiHEX2Hz+qCU2oxwvHbtWqo1aHWGxtNsyDOHIG8rYNkLYaiU2hY2rw/YURVCjNLSNG6m9TkSk4sICkFvKzxZoh5PJBLvhM0bCCFEA4YlTE5oS4o2JrIVQyIoBGllFmt8yPhCiD/zhdeHxsbGeQgVLB/Rvlzm7sxUGThzc4JEoFUxxHV2drpZ3rbtgnzhDYSUUtHY7N2cpL5JgmirCobfmft0XhG0OcE5t/KN1wel1Jec80n0G+8ObdBGJRn+9+7U0gYl7sduD4YgxtikEOKLfOMNhJSyDiGJWRr6ZeYePW1Xk9GKLnnfKwJFDkKQc/5TvvL6cOTIkVcZY51YjUUJiQd6v9IgUWT4nwTQ/jySD63EWpbVnc13O2HxBsJxnE8tyxqBGIzReDB9rkKivOb9TAV9DyLQ/xhjQ9j9zXfeQKDvQAzV694vtOjjJDL6agtr/FjiRijH4/HhWCz2uTFLeANhmuZn8Xi8B5+gYfHi8uXLLlmmIWTRd7HKG4/H3e/2lFKfGLOMNxAnT558zTTNvaZpjoEERQsWJJCxYfiNkMU5XMMY+wH92ZilvFMC01fLsr41TbPVNM3HZ86c0TDTNCfi8XhLPB7/Zsrp5izkfSpisdgrsVjsA8bY+/htvOC8ESJEiBAhQoQIxouEfwG7tw5S8ZsZOgAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
+                                        Suggestions are welcome
+                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        You can also have a look at https://www.figma.com/file/OI6kqMhO65Eh5LXC40uuOH/BlogHive?node-id=27%3A2&amp;t=nqy5OoBrHYmzHPxf-0
                                     </div>
                                 </div>
                             </section>
