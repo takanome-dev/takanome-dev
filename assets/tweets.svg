@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="400" class="">
     <defs>
         <style/>
     </defs>
@@ -23,29 +23,33 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@roshanpateI</span>
+                            : I was rejected by Apple.
+                            <br />
+                            I was rejected by Amazon.
+                            <br />
+                            I was rejected by Facebook.
+                            <br />
+                            <br />
+                            I was 28 years old and broke.
+                            <br />
+                            <br />
+                            I decided t…
+                            <div class="date">22:37:01 on 19 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@ManishT93598843</span>
+                            There are a lot of file changes. We are waiting actions to complete 😂
+                            <div class="date">11:31:43 on 19 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@eddiejaoude</span>
                             : Get involved in Open Source for only 3 hours per week and within 1 year you will see so much magic 🪄
                             <br />
                             <br />
                             You can start with…
                             <div class="date">21:06:17 on 18 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@bdougieYO</span>
-                            : Looking forward to having an insightful conversation about the involvement about profitable companies in Open Source.
-                            <br />
-                            http…
-                            <div class="date">21:02:54 on 18 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@yuricodesbot</span>
-                            : You’re STILL using console.log and hoping for the best?
-                            <br />
-                            <br />
-                            You need this guide of the most common JavaScript bugs with exp…
-                            <div class="date">22:15:58 on 16 Jan 2023</div>
                         </div>
                     </section>
                 </div>
