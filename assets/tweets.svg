@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="400" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             takanome_dev
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Dina_iyanex</span>
+                            Looks great 🔥
+                            <div class="date">15:15:05 on 23 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@roshanpateI</span>
                             : I was rejected by Apple.
@@ -41,15 +46,6 @@
                             <span class="mention">@ManishT93598843</span>
                             There are a lot of file changes. We are waiting actions to complete 😂
                             <div class="date">11:31:43 on 19 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@eddiejaoude</span>
-                            : Get involved in Open Source for only 3 hours per week and within 1 year you will see so much magic 🪄
-                            <br />
-                            <br />
-                            You can start with…
-                            <div class="date">21:06:17 on 18 Jan 2023</div>
                         </div>
                     </section>
                 </div>
