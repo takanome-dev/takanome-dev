@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,39 +19,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#664 feature: Add Global hovercard support for avatars</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">TAKANOME-DEV/vidly-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by OgDev-01 in <span class="repo">open-sauced/insights</span></div>
-                                    <div class="comment">@OgDev-01 doesn't this issue already resolved by https://github.com/open-sauced/insights/pull/742?</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#821 Feature: Beta tag</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by bdougie in <span class="repo">open-sauced/insights</span></div>
-                                    <div class="comment">
-                                        I have looked into the
-                                        <code>pill</code>
-                                        atom and I think maybe we should choose an alternative to how the colors are handled.
-https://github.com/open-sauced/insights/blob/050a4b499380895926e759bf13ea87c5ab96713a/components/atoms/Pill/pill.tsx#L16-L24
-if we want to use the pill atom to display this beta tag, another condition will be added, and the next time also, and so on...
-Maybe defining some default styles and overriding them when needed would be a good approach or using cva to add different variants...
+                                    <div>on branch <span class="code">nextjs-13</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6e8ff13</div>
+                                        <div class="message">feat: update db schema and add feedbacks</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,56 +42,132 @@ Maybe defining some default styles and overriding them when needed would be a go
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 6 commits in
                                         <span class="repo">TAKANOME-DEV/insights</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">beta</span></div>
                                     <div class="commit">
-                                        <div class="sha">#050a4b4</div>
-                                        <div class="message">chore(minor): release 1.25.0 [skip ci] (#818)
+                                        <div class="sha">#fffeb2c</div>
+                                        <div class="message">chore(minor): release 1.25.0-beta.13 on beta channel [skip ci]
 
-* v1.25.0-beta.10 -&gt; production (#815)
-
-* chore(minor): release 1.25.0 [skip ci]
-
-## [1.25.0](https://github.com/open-sauced/insights/compare/v1.24.0...v1.25.0) (2023-01-30)
-
-### 🧑‍💻 Code Refactoring
-
-* Renamed the ContributorTable to PullRequestTable ([#779](https://github.com/open-sauced/insights/issues/779)) ([694d213](https://github.com/open-sauced/insights/commit/694d213128077735803054f11e40eaf483a04e22)), closes [#681](https://github.com/open-sauced/insights/issues/681)
-
-### 🐛 Bug Fixes
-
-* add fix for Storybook usage with Next 13 ([#792](https://github.com/open-sauced/insights/issues/792)) ([bb10b2b](https://github.com/open-sauced/insights/commit/bb10b2b3b324f344a0279446c219db9d5ea77d31)), closes [/github.com/vercel/next.js/issues/36417#issuecomment-1117360509](https://github.com/open-sauced//github.com/vercel/next.js/issues/36417/issues/issuecomment-1117360509)
-* correct repositories empty list message ([#778](https://github.com/open-sauced/insights/issues/778)) ([18b7393](https://github.com/open-sauced/insights/commit/18b7393c73526c891f1bddf1a7629d9e9803d3f9)), closes [#777](https://github.com/open-sauced/insights/issues/777)
-* make repositories table styles more responsive ([#773](https://github.com/open-sauced/insights/issues/773)) ([fe5c6f5](https://github.com/open-sauced/insights/commit/fe5c6f55c2e3e10e99432ebf1b772c7326f3642e)), closes [#724](https://github.com/open-sauced/insights/issues/724)
-* mobile insights header layout break ([#795](https://github.com/open-sauced/insights/issues/795)) ([0bc2f0b](https://github.com/open-sauced/insights/commit/0bc2f0b6e3d6d4b132aad11284d2529573b687cf)), closes [#769](https://github.com/open-sauced/insights/issues/769)
-* remove usage of next/legacy/image ([#793](https://github.com/open-sauced/insights/issues/793)) ([9264ffb](https://github.com/open-sauced/insights/commit/9264ffb978dbf05204116363f93b57f834f3ceef))
-* revert [#778](https://github.com/open-sauced/insights/issues/778) ([f6e30e1](https://github.com/open-sauced/insights/commit/f6e30e1b875b2423c5f002ee954a7da4d4a786c1))
-* use correct avatar URL for caching  ([#800](https://github.com/open-sauced/insights/issues/800)) ([726f11b](https://github.com/open-sauced/insights/commit/726f11b263ea867e4efd7137f439309e8d9c554b)), closes [#757](https://github.com/open-sauced/insights/issues/757) [#746](https://github.com/open-sauced/insights/issues/746)
+## [1.25.0-beta.13](https://github.com/open-sauced/insights/compare/v1.25.0-beta.12...v1.25.0-beta.13) (2023-02-01)
 
 ### 🍕 Features
 
-* add `PullRequestSocialCard` component to design system ([#774](https://github.com/open-sauced/insights/issues/774)) ([04600c2](https://github.com/open-sauced/insights/commit/04600c24a5d3c437aacd36fa15d4b068d1c42e33)), closes [#716](https://github.com/open-sauced/insights/issues/716)
-* add `UserSettings` component to design system ([#788](https://github.com/open-sauced/insights/issues/788)) ([dd9cabd](https://github.com/open-sauced/insights/commit/dd9cabdbe473901e2f27031a41edf065ee7ac50f)), closes [#783](https://github.com/open-sauced/insights/issues/783)
-* set insight repo limit based on role ([#813](https://github.com/open-sauced/insights/issues/813)) ([9e998f1](https://github.com/open-sauced/insights/commit/9e998f1b792011918a38d377810e07ca355e47c0))
-* update to Next 13.1.x ([#758](https://github.com/open-sauced/insights/issues/758)) ([72c2b64](https://github.com/open-sauced/insights/commit/72c2b64a5a0d8dfc621029d003083ce0874179d8)), closes [#753](https://github.com/open-sauced/insights/issues/753)</div>
+* add profile badge to connected user profile ([#824](https://github.com/open-sauced/insights/issues/824)) ([e3a1fcf](https://github.com/open-sauced/insights/commit/e3a1fcfb5ab4e9d84a243a1034dcce35b917ab45)), closes [#821](https://github.com/open-sauced/insights/issues/821) [#820](https://github.com/open-sauced/insights/issues/820)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f91eee0</div>
-                                        <div class="message">chore(minor): release 1.25.0-beta.10 on beta channel [skip ci]
+                                        <div class="sha">#e3a1fcf</div>
+                                        <div class="message">feat: add profile badge to connected user profile (#824)
 
-## [1.25.0-beta.10](https://github.com/open-sauced/insights/compare/v1.25.0-beta.9...v1.25.0-beta.10) (2023-01-30)
+Fixes #821
+Fixes #820</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d376a43</div>
+                                        <div class="message">chore(minor): release 1.25.0-beta.12 on beta channel [skip ci]
+
+## [1.25.0-beta.12](https://github.com/open-sauced/insights/compare/v1.25.0-beta.11...v1.25.0-beta.12) (2023-02-01)
 
 ### 🍕 Features
 
-* set insight repo limit based on role ([#813](https://github.com/open-sauced/insights/issues/813)) ([9e998f1](https://github.com/open-sauced/insights/commit/9e998f1b792011918a38d377810e07ca355e47c0))</div>
+* add user location and bio details to profile page ([#797](https://github.com/open-sauced/insights/issues/797)) ([a301874](https://github.com/open-sauced/insights/commit/a301874f2cae3f8b474715ceb5e45197efc5a845))</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9e998f1</div>
-                                        <div class="message">feat: set insight repo limit based on role (#813)</div>
+                                        <div class="sha">#a301874</div>
+                                        <div class="message">feat: add user location and bio details to profile page (#797)
+
+* refactor: create profile info component
+
+* chore: update Dbuser type
+
+* chore: update user type
+
+* refactor: update contributor info props
+
+* chore: cleanups and finishing touches
+
+* chore: set twitter as coming soon and type infersion
+
+* chore: add interest field from api
+
+* refactor: cleanup on eslint error ignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1169eb</div>
+                                        <div class="message">chore(minor): release 1.25.0-beta.11 on beta channel [skip ci]
+
+## [1.25.0-beta.11](https://github.com/open-sauced/insights/compare/v1.25.0-beta.10...v1.25.0-beta.11) (2023-02-01)
+
+### 🍕 Features
+
+* implement profile settings feature ([#808](https://github.com/open-sauced/insights/issues/808)) ([4a8d706](https://github.com/open-sauced/insights/commit/4a8d706ed0ee409973f61b3b94d647fa7c5dfb4d))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a8d706</div>
+                                        <div class="message">feat: implement profile settings feature (#808)
+
+* feat: add profile update api function
+
+* refactor: minor updates
+
+* feat: add settings na d profile route
+
+* feat: add toast support and validation
+
+* chore: minor api call fixes
+
+* refactor: remove unwanted code
+
+* refactor: update default values
+
+* refactor: add timezone array to select options
+
+* refactor: add cursor indication for disabled input
+
+* feat: create useAuthSession hook for user data
+
+* chore: guard settings page
+
+* refactor: update input placeholders
+
+* fix: build and language chart issues
+
+* refactor: cleanups and finishing touches
+
+* chore: remove unused code
+
+* refactor: update user profile link icon
+
+* Update components/organisms/UserSettingsPage/user-settings-page.tsx
+
+Co-authored-by: Brian Douglas &lt;bdougie@users.noreply.github.com&gt;
+
+* Update components/organisms/UserSettingsPage/user-settings-page.tsx
+
+Co-authored-by: Brian Douglas &lt;bdougie@users.noreply.github.com&gt;
+
+* Update components/organisms/UserSettingsPage/user-settings-page.tsx
+
+Co-authored-by: Brian Douglas &lt;bdougie@users.noreply.github.com&gt;
+
+* chore: update Db user type
+
+* feat: implement update user email preference
+
+* refactor: cleanup anf fininshing touches
+
+* chore: general refactor and cleanup
+
+* chore: update api call response
+
+* fix: build error
+
+---------
+
+Co-authored-by: Brian Douglas &lt;bdougie@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -121,28 +176,54 @@ Maybe defining some default styles and overriding them when needed would be a go
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">clauderic/dnd-kit</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#77 chore(deps): update node.js to v18</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">TAKANOME-DEV/monorepo-template</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">TAKANOME-DEV/assign-issue-action</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#028b7da</div>
+                                        <div class="message">chore(deps): update pnpm to v7.26.3 (#60)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">renovate/pnpm-7.x</span>
+                                        in
+                                        <span class="repo">TAKANOME-DEV/monorepo-template</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#60 chore(deps): update pnpm to v7.26.3</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by renovate[bot] in <span class="repo">TAKANOME-DEV/monorepo-template</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
