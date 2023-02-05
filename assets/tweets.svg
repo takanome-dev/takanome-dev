@@ -22,6 +22,16 @@
                             takanome_dev
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Alleseck02</span>
+                            <span class="mention">@gabe_g2i</span>
+                            I’ll take and use
+                            <span class="mention">@solid_js</span>
+                            or
+                            <span class="mention">@sveltejs</span>
+                            😁
+                            <div class="date">13:44:53 on 4 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@saucedopen</span>
                             : OpenSauced is now a platform to highlight engineers' work by validating them through their OSS contributions.
@@ -34,12 +44,6 @@
                             <span class="mention">@phantom_favour</span>
                             2
                             <div class="date">14:12:20 on 1 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Martin_Adams</span>
-                            <span class="mention">@iamjonjackson</span>
-                            This 👆😂
-                            <div class="date">10:43:45 on 30 Jan 2023</div>
                         </div>
                     </section>
                 </div>
