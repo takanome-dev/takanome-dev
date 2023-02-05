@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="418" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="668" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,19 +19,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TAKANOME-DEV/vidly-client</span>
+                                        Opened
+                                        <span class="issue">#45 Bug: Cannot view the newsletter page</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">nextjs-13</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae012fd</div>
-                                        <div class="message">feat: add watch movie page</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">TechIsHiring/techishiring-website</span></div>
                                 </div>
                             </section>
                         </div>
@@ -39,66 +36,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TAKANOME-DEV/vidly-client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">nextjs-13</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c2e58af</div>
-                                        <div class="message">feat: add movie trailers modal</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TAKANOME-DEV/done-with-it</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">upgrade-expo-and-use-ts</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a20f8d6</div>
-                                        <div class="message">cleanup: remove android .gradle folder</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">TAKANOME-DEV/done-with-it</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">upgrade-expo-and-use-ts</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44b94df</div>
-                                        <div class="message">cleanup: remove android build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bba912</div>
-                                        <div class="message">cleanup: remove android build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#157d50c</div>
-                                        <div class="message">feat: upgrade expo to the lastest version with ts</div>
+                                        Starred
+                                        <span class="repo">rstacruz/nprogress</span>
                                     </div>
                                 </div>
                             </section>
@@ -111,17 +53,138 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#832 Bug: users avatar is not showing on the repo tab</span>
+                                        <span class="issue">#29 Add Vitest, React Testing Library and Cypress</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by dev-phantom in <span class="repo">open-sauced/insights</span></div>
+                                    <div>opened by chadstewart in <span class="repo">TechIsHiring/techishiring-website</span></div>
                                     <div class="comment">
-                                        Well explained
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Thanks
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Do you think a pr should be raised while waiting for the input of others?
+                                        <i>So honestly, I'm really thinking about mostly e2e tests for the components and unit tests for whatever business logic I have that makes sense. I honestly don't see the value of testing components that's mostly markup.</i>
+                                        Totally agree with you.
+                                        <i>What are your opinions on testing an Atomic Design code base?</i>
+                                        I have never done it and I'm new to Atomic Design
+                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        I think we don't need to test each atom, molecule etc, we can build them and test them with Storybook. Checkout jest integration with Storybook
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 25 commits in
+                                        <span class="repo">TAKANOME-DEV/vidly-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trpc-with-next13</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c844444</div>
+                                        <div class="message">feat: add reviews section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd56c03</div>
+                                        <div class="message">feat: add similar movies slider</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#488e69f</div>
+                                        <div class="message">feat: add movie details page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a24838</div>
+                                        <div class="message">refactor: update error component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ef532e</div>
+                                        <div class="message">refactor: update feedbacks and fix supabase errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e8ff13</div>
+                                        <div class="message">feat: update db schema and add feedbacks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc504cc</div>
+                                        <div class="message">feat: add trpc routes for creating and getting feedbacks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8915a74</div>
+                                        <div class="message">feat: attempting to use emojis in the feedback modal</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93f0201</div>
+                                        <div class="message">feat: handle sending feedbacks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dce89cc</div>
+                                        <div class="message">feat: handle errors and update configs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e384b20</div>
+                                        <div class="message">feat: handle search movies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bbe828</div>
+                                        <div class="message">feat: nmake search movies working</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f38a06</div>
+                                        <div class="message">feat: add skeleton loading</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76248a6</div>
+                                        <div class="message">feat: add trpc routes to retrieve movies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#349970b</div>
+                                        <div class="message">refactor: update styles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4232d4f</div>
+                                        <div class="message">fix: pagination is working wohooo :)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#422431c</div>
+                                        <div class="message">attemting to fix pagination</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81982b2</div>
+                                        <div class="message">feat: add pagination</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77c267b</div>
+                                        <div class="message">feat: add card component and mock movies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#176cbc0</div>
+                                        <div class="message">fix: handle dark mode</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">TAKANOME-DEV/vidly-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">nextjs-13</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6f29877</div>
+                                        <div class="message">feat: add nprogress on route change</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78a4cbf</div>
+                                        <div class="message">feat: wrap movie title in a tooltip</div>
                                     </div>
                                 </div>
                             </section>
