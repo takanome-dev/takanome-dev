@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             takanome_dev
                         </div>
                         <div class="tweet">
+                            <span class="mention">@phantom_favour</span>
+                            I'm swamped with others projects right now, but will get to back to it shortly 👍
+                            <div class="date">19:58:01 on 5 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Alleseck02</span>
                             <span class="mention">@gabe_g2i</span>
                             I’ll take and use
@@ -39,11 +44,6 @@
                             <br />
                             Connect you…
                             <div class="date">18:12:24 on 3 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@phantom_favour</span>
-                            2
-                            <div class="date">14:12:20 on 1 Feb 2023</div>
                         </div>
                     </section>
                 </div>
