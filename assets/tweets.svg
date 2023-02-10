@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
     <defs>
         <style/>
     </defs>
@@ -23,6 +23,20 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@simonswiss</span>
+                            : Dropping this hot
+                            <span class="mention">@protailwind</span>
+                            tutorial tomorrow! 🔥
+                            <br />
+                            <br />
+                            This one is totally FREE too 🤗
+                            <br />
+                            <br />
+                            Prepare to deep dive into CSS linear-g…
+                            <div class="date">20:13:35 on 9 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@claire__charles</span>
                             : Open Source Internships Programs
                             <br />
@@ -38,11 +52,6 @@
                             <span class="mention">@KevinNaughtonJr</span>
                             that’s not cool 😅🤣😭
                             <div class="date">18:21:36 on 8 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@KevinNaughtonJr</span>
-                            Don’t mind me, just keep scrolling 🫥
-                            <div class="date">18:15:18 on 8 Feb 2023</div>
                         </div>
                     </section>
                 </div>
