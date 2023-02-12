@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="367" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="335" class="">
     <defs>
         <style/>
     </defs>
@@ -23,36 +23,32 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@brandontroberts</span>
+                            : 🔴 DevRel For Black Developers And Why It's Slightly Different w/
+                            <span class="mention">@jamesqquick</span>
+                            and
+                            <span class="mention">@coreylweathers</span>
+                            <br />
+                            <br />
+                            🗣️👂🏿👀
+                            <br />
+                            <br />
+                            https://t.co/…
+                            <div class="date">10:49:07 on 11 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@FranciscoInSFO</span>
+                            <span class="mention">@ShawnBasquiat</span>
+                            Kaizoku wo orewa naru ☠️
+                            <div class="date">10:44:42 on 11 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@saucedopen</span>
                             : Turn open-source into opportunity. Hear it directly from
                             <span class="mention">@TejasKumar_</span>
                             in a clip from our latest Twitter Space. https://t.co…
                             <div class="date">17:30:04 on 10 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@simonswiss</span>
-                            : Dropping this hot
-                            <span class="mention">@protailwind</span>
-                            tutorial tomorrow! 🔥
-                            <br />
-                            <br />
-                            This one is totally FREE too 🤗
-                            <br />
-                            <br />
-                            Prepare to deep dive into CSS linear-g…
-                            <div class="date">20:13:35 on 9 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@claire__charles</span>
-                            : Open Source Internships Programs
-                            <br />
-                            A THREAD🧵
-                            <br />
-                            <br />
-                            Contributing to open source has so many benefits including resume building…
-                            <div class="date">19:40:24 on 8 Feb 2023</div>
                         </div>
                     </section>
                 </div>
