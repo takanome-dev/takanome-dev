@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,17 @@
                             takanome_dev
                         </div>
                         <div class="tweet">
+                            <span class="mention">@phantom_favour</span>
+                            <span class="mention">@saucedopen</span>
+                            <span class="mention">@bdougieYO</span>
+                            You’re doing great
+                            <span class="mention">@phantom_favour</span>
+                            🔥
+                            <br />
+                            Keep it up 💪🚀
+                            <div class="date">10:56:41 on 5 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@phantom_favour</span>
                             : Hey opensource contributor 👋🏿,
@@ -37,14 +48,6 @@
                             <span class="mention">@TkDodo</span>
                             Dommage émotionnel 😂
                             <div class="date">06:02:06 on 2 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@saucedopen</span>
-                            : Join us today for an episode of The Secret Sauce, where
-                            <span class="mention">@6gems</span>
-                            , Kimberly Bryant, shares her story and journey, starting fro…
-                            <div class="date">05:57:43 on 2 Mar 2023</div>
                         </div>
                     </section>
                 </div>
