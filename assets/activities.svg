@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="252" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1334" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.sponsors{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,82 +19,591 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">TAKANOME-DEV/api.opensauced.pizza</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">beta</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4952ef7</div>
+                                        <div class="message">Merge pull request #114 from open-sauced/beta
+
+v1.26.0-beta.6 -&gt; production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1673be</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
+
+* origin/main:
+  chore(patch): release 1.25.1 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97b4ecf</div>
+                                        <div class="message">chore(minor): release 1.26.0-beta.6 on beta channel [skip ci]
+
+## [1.26.0-beta.6](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.26.0-beta.5...v1.26.0-beta.6) (2023-02-28)
+
+### 🍕 Features
+
+* add user login to highlights list data ([b59ff45](https://github.com/open-sauced/api.opensauced.pizza/commit/b59ff45b12ced26472ce870d75611f60f87b31d3))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b59ff45</div>
+                                        <div class="message">feat: add user login to highlights list data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0488277</div>
+                                        <div class="message">chore(minor): release 1.26.0-beta.5 on beta channel [skip ci]
+
+## [1.26.0-beta.5](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.26.0-beta.4...v1.26.0-beta.5) (2023-02-28)
+
+### 🍕 Features
+
+* add user full name to highlights list data ([#113](https://github.com/open-sauced/api.opensauced.pizza/issues/113)) ([909005f](https://github.com/open-sauced/api.opensauced.pizza/commit/909005f288d520a725d2a19b9d788b3487017660))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#909005f</div>
+                                        <div class="message">feat: add user full name to highlights list data (#113)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce24212</div>
+                                        <div class="message">chore(minor): release 1.26.0-beta.4 on beta channel [skip ci]
+
+## [1.26.0-beta.4](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.26.0-beta.3...v1.26.0-beta.4) (2023-02-23)
+
+### 🍕 Features
+
+* add endpoints to list all highlights and repos ([#112](https://github.com/open-sauced/api.opensauced.pizza/issues/112)) ([b4785d9](https://github.com/open-sauced/api.opensauced.pizza/commit/b4785d9d5ef707624c441c42111e0cd4e45a17c0)), closes [open-sauced/ops-backend#24](https://github.com/open-sauced/ops-backend/issues/24)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4785d9</div>
+                                        <div class="message">feat: add endpoints to list all highlights and repos (#112)
+
+Fixes open-sauced/ops-backend#24</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75c45f7</div>
+                                        <div class="message">chore(minor): release 1.26.0-beta.3 on beta channel [skip ci]
+
+## [1.26.0-beta.3](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.26.0-beta.2...v1.26.0-beta.3) (2023-02-23)
+
+### 🍕 Features
+
+* add user fields for LinkedIn, GitHub Sponsors ([#111](https://github.com/open-sauced/api.opensauced.pizza/issues/111)) ([54a8a60](https://github.com/open-sauced/api.opensauced.pizza/commit/54a8a60c0f3263bbeda84059b52290402241b1d4))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54a8a60</div>
+                                        <div class="message">feat: add user fields for LinkedIn, GitHub Sponsors (#111)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11633da</div>
+                                        <div class="message">chore(patch): release 1.26.0-beta.2 on beta channel [skip ci]
+
+## [1.26.0-beta.2](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.26.0-beta.1...v1.26.0-beta.2) (2023-02-22)
+
+### 🐛 Bug Fixes
+
+* add max length restriction to creating/updating a user highlight ([#109](https://github.com/open-sauced/api.opensauced.pizza/issues/109)) ([0a57d6d](https://github.com/open-sauced/api.opensauced.pizza/commit/0a57d6d13cf92b68a7280a905121fab2c377e000))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a57d6d</div>
+                                        <div class="message">fix: add max length restriction to creating/updating a user highlight (#109)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5844fb2</div>
+                                        <div class="message">chore(minor): release 1.26.0-beta.1 on beta channel [skip ci]
+
+## [1.26.0-beta.1](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.25.1-beta.2...v1.26.0-beta.1) (2023-02-22)
+
+### 🍕 Features
+
+* add new data when user is onboarding ([#110](https://github.com/open-sauced/api.opensauced.pizza/issues/110)) ([2b7a94c](https://github.com/open-sauced/api.opensauced.pizza/commit/2b7a94cf82f199d0475a6f46cb6744be13307ec5))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b7a94c</div>
+                                        <div class="message">feat: add new data when user is onboarding (#110)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9562b2</div>
+                                        <div class="message">chore(patch): release 1.25.1 [skip ci]
+
+### [1.25.1](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.25.0...v1.25.1) (2023-02-19)
+
+### 🐛 Bug Fixes
+
+* correct user_repos type mismatch ([#106](https://github.com/open-sauced/api.opensauced.pizza/issues/106)) ([33a31ff](https://github.com/open-sauced/api.opensauced.pizza/commit/33a31ff50e629b4a8b93829b51e8cf7d050b8722))
+* force coercion of userId in UserId decorator into a number ([bb1f3e5](https://github.com/open-sauced/api.opensauced.pizza/commit/bb1f3e548634cd69fd75c2f9a9540f1942fd071b))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2be3e9</div>
+                                        <div class="message">Merge pull request #107 from open-sauced/beta
+
+v1.25.1-beta.2 -&gt; production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#571ef98</div>
+                                        <div class="message">chore(patch): release 1.25.1-beta.2 on beta channel [skip ci]
+
+### [1.25.1-beta.2](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.25.1-beta.1...v1.25.1-beta.2) (2023-02-19)
+
+### 🐛 Bug Fixes
+
+* correct user_repos type mismatch ([#106](https://github.com/open-sauced/api.opensauced.pizza/issues/106)) ([33a31ff](https://github.com/open-sauced/api.opensauced.pizza/commit/33a31ff50e629b4a8b93829b51e8cf7d050b8722))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33a31ff</div>
+                                        <div class="message">fix: correct user_repos type mismatch (#106)
+
+* fix: correct user_repos type mismatch
+
+* refactor: remove typos and logs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#640d55a</div>
+                                        <div class="message">chore(patch): release 1.25.1-beta.1 on beta channel [skip ci]
+
+### [1.25.1-beta.1](https://github.com/open-sauced/api.opensauced.pizza/compare/v1.25.0...v1.25.1-beta.1) (2023-02-17)
+
+### 🐛 Bug Fixes
+
+* force coercion of userId in UserId decorator into a number ([bb1f3e5](https://github.com/open-sauced/api.opensauced.pizza/commit/bb1f3e548634cd69fd75c2f9a9540f1942fd071b))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb1f3e5</div>
+                                        <div class="message">fix: force coercion of userId in UserId decorator into a number</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 94 commits in
+                                        <span class="repo">TAKANOME-DEV/insights</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">856-add-pagination-insights-page</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#26ab744</div>
+                                        <div class="message">chore(minor): release 1.30.0 [skip ci]
+
+## [1.30.0](https://github.com/open-sauced/insights/compare/v1.29.0...v1.30.0) (2023-02-21)
+
+### 🍕 Features
+
+* add  highlights to user profile page ([#859](https://github.com/open-sauced/insights/issues/859)) ([4b01376](https://github.com/open-sauced/insights/commit/4b013767176a9f1e8bec47a5190dc0d0a18e6ac1)), closes [#830](https://github.com/open-sauced/insights/issues/830)
+* add dropdown for topics in Explore ([#877](https://github.com/open-sauced/insights/issues/877)) ([9579902](https://github.com/open-sauced/insights/commit/95799029ea5e47fff7862146a24daeedf22288e4)), closes [#533](https://github.com/open-sauced/insights/issues/533)
+* disable create insight page button if the page name is missing ([#857](https://github.com/open-sauced/insights/issues/857)) ([95da564](https://github.com/open-sauced/insights/commit/95da5649e64642d70e8b95b8f8e9d753f8c2bde2)), closes [#852](https://github.com/open-sauced/insights/issues/852)
+
+### 🐛 Bug Fixes
+
+* disable create page button only if insight page name is empty ([#893](https://github.com/open-sauced/insights/issues/893)) ([ed52399](https://github.com/open-sauced/insights/commit/ed52399acc13f5cb05abb62beabaac016a951729)), closes [#892](https://github.com/open-sauced/insights/issues/892)
+* hide non-functional elements in highlights card ([#881](https://github.com/open-sauced/insights/issues/881)) ([ba1bd5e](https://github.com/open-sauced/insights/commit/ba1bd5e32c8645e3b99f019afd00c20ea9c0e15d))
+* rename 404 image file ([4e5171f](https://github.com/open-sauced/insights/commit/4e5171fd86d1d905fc801eaf4c6d57769ed13d80))
+* replace `PRSocialCard` component with GitHub OpenGraph image ([#889](https://github.com/open-sauced/insights/issues/889)) ([3bfc5a4](https://github.com/open-sauced/insights/commit/3bfc5a4e56d58ab41aadd7bb22595988ebf4b6de)), closes [#883](https://github.com/open-sauced/insights/issues/883)
+* reset text input fields when clear button is clicked ([#869](https://github.com/open-sauced/insights/issues/869)) ([783098d](https://github.com/open-sauced/insights/commit/783098dfbd18a3e5f03e3d6d8001c6cfcea1dde1)), closes [#858](https://github.com/open-sauced/insights/issues/858)
+* user profile interest pill UI fix ([#890](https://github.com/open-sauced/insights/issues/890)) ([4cbff36](https://github.com/open-sauced/insights/commit/4cbff36fc104be46143c31b5ccd3b732179206d7))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbb4744</div>
+                                        <div class="message">Merge pull request #894 from open-sauced/beta
+
+v1.30.0-beta.8 -&gt; production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bf0ec2</div>
+                                        <div class="message">chore(patch): release 1.30.0-beta.9 on beta channel [skip ci]
+
+## [1.30.0-beta.9](https://github.com/open-sauced/insights/compare/v1.30.0-beta.8...v1.30.0-beta.9) (2023-02-21)
+
+### 🐛 Bug Fixes
+
+* rename 404 image file ([4e5171f](https://github.com/open-sauced/insights/commit/4e5171fd86d1d905fc801eaf4c6d57769ed13d80))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e5171f</div>
+                                        <div class="message">fix: rename 404 image file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f1397c</div>
+                                        <div class="message">chore(patch): release 1.30.0-beta.8 on beta channel [skip ci]
+
+## [1.30.0-beta.8](https://github.com/open-sauced/insights/compare/v1.30.0-beta.7...v1.30.0-beta.8) (2023-02-21)
+
+### 🐛 Bug Fixes
+
+* replace `PRSocialCard` component with GitHub OpenGraph image ([#889](https://github.com/open-sauced/insights/issues/889)) ([3bfc5a4](https://github.com/open-sauced/insights/commit/3bfc5a4e56d58ab41aadd7bb22595988ebf4b6de)), closes [#883](https://github.com/open-sauced/insights/issues/883)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bfc5a4</div>
+                                        <div class="message">fix: replace `PRSocialCard` component with GitHub OpenGraph image (#889)
+
+Fixes #883</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0117a84</div>
+                                        <div class="message">chore(patch): release 1.30.0-beta.7 on beta channel [skip ci]
+
+## [1.30.0-beta.7](https://github.com/open-sauced/insights/compare/v1.30.0-beta.6...v1.30.0-beta.7) (2023-02-21)
+
+### 🐛 Bug Fixes
+
+* hide non-functional elements in highlights card ([#881](https://github.com/open-sauced/insights/issues/881)) ([ba1bd5e](https://github.com/open-sauced/insights/commit/ba1bd5e32c8645e3b99f019afd00c20ea9c0e15d))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba1bd5e</div>
+                                        <div class="message">fix: hide non-functional elements in highlights card (#881)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b2e3d8</div>
+                                        <div class="message">chore(patch): release 1.30.0-beta.6 on beta channel [skip ci]
+
+## [1.30.0-beta.6](https://github.com/open-sauced/insights/compare/v1.30.0-beta.5...v1.30.0-beta.6) (2023-02-21)
+
+### 🐛 Bug Fixes
+
+* disable create page button only if insight page name is empty ([#893](https://github.com/open-sauced/insights/issues/893)) ([ed52399](https://github.com/open-sauced/insights/commit/ed52399acc13f5cb05abb62beabaac016a951729)), closes [#892](https://github.com/open-sauced/insights/issues/892)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed52399</div>
+                                        <div class="message">fix: disable create page button only if insight page name is empty (#893)
+
+Fixes #892</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba9e7a5</div>
+                                        <div class="message">chore(patch): release 1.30.0-beta.5 on beta channel [skip ci]
+
+## [1.30.0-beta.5](https://github.com/open-sauced/insights/compare/v1.30.0-beta.4...v1.30.0-beta.5) (2023-02-20)
+
+### 🐛 Bug Fixes
+
+* user profile interest pill UI fix ([#890](https://github.com/open-sauced/insights/issues/890)) ([4cbff36](https://github.com/open-sauced/insights/commit/4cbff36fc104be46143c31b5ccd3b732179206d7))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cbff36</div>
+                                        <div class="message">fix: user profile interest pill UI fix (#890)
+
+* fix: interest layout break
+
+* fix: interest card layout break
+
+* feat: add local date implementation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#124b428</div>
+                                        <div class="message">chore(minor): release 1.30.0-beta.4 on beta channel [skip ci]
+
+## [1.30.0-beta.4](https://github.com/open-sauced/insights/compare/v1.30.0-beta.3...v1.30.0-beta.4) (2023-02-17)
+
+### 🍕 Features
+
+* add  highlights to user profile page ([#859](https://github.com/open-sauced/insights/issues/859)) ([4b01376](https://github.com/open-sauced/insights/commit/4b013767176a9f1e8bec47a5190dc0d0a18e6ac1)), closes [#830](https://github.com/open-sauced/insights/issues/830)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b01376</div>
+                                        <div class="message">feat: add  highlights to user profile page (#859)
+
+Closes #830</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d6fa77</div>
+                                        <div class="message">chore(minor): release 1.30.0-beta.3 on beta channel [skip ci]
+
+## [1.30.0-beta.3](https://github.com/open-sauced/insights/compare/v1.30.0-beta.2...v1.30.0-beta.3) (2023-02-17)
+
+### 🍕 Features
+
+* add dropdown for topics in Explore ([#877](https://github.com/open-sauced/insights/issues/877)) ([9579902](https://github.com/open-sauced/insights/commit/95799029ea5e47fff7862146a24daeedf22288e4)), closes [#533](https://github.com/open-sauced/insights/issues/533)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9579902</div>
+                                        <div class="message">feat: add dropdown for topics in Explore (#877)
+
+Fixes #533</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd085d2</div>
+                                        <div class="message">chore(patch): release 1.30.0-beta.2 on beta channel [skip ci]
+
+## [1.30.0-beta.2](https://github.com/open-sauced/insights/compare/v1.30.0-beta.1...v1.30.0-beta.2) (2023-02-17)
+
+### 🐛 Bug Fixes
+
+* reset text input fields when clear button is clicked ([#869](https://github.com/open-sauced/insights/issues/869)) ([783098d](https://github.com/open-sauced/insights/commit/783098dfbd18a3e5f03e3d6d8001c6cfcea1dde1)), closes [#858](https://github.com/open-sauced/insights/issues/858)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#783098d</div>
+                                        <div class="message">fix: reset text input fields when clear button is clicked (#869)
+
+Fixed #858</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eaddab</div>
+                                        <div class="message">chore(minor): release 1.30.0-beta.1 on beta channel [skip ci]
+
+## [1.30.0-beta.1](https://github.com/open-sauced/insights/compare/v1.29.0...v1.30.0-beta.1) (2023-02-15)
+
+### 🍕 Features
+
+* disable create insight page button if the page name is missing ([#857](https://github.com/open-sauced/insights/issues/857)) ([95da564](https://github.com/open-sauced/insights/commit/95da5649e64642d70e8b95b8f8e9d753f8c2bde2)), closes [#852](https://github.com/open-sauced/insights/issues/852)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95da564</div>
+                                        <div class="message">feat: disable create insight page button if the page name is missing (#857)
+
+Fixes #852</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#3 Feature: Chrome extension</span>
+                                        <span class="issue">#870 feat: add pagination to user insights page</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by bdougie in <span class="repo">open-sauced/browser-extensions</span></div>
+                                    <div>opened by TAKANOME-DEV in <span class="repo">open-sauced/insights</span></div>
                                     <div class="comment">
-                                        Awesome
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Some ideas that came to my mind after viewing https://github.com/open-sauced-craftwork/browser-extension/discussions/5
+                                        <i>Go ahead and more forward with implementation of the pagination. We can fix the API separately</i>
+                                        Sure, I have looked into the API and then get lost
+                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        I'll look into it again. Any guidance is appreciated
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TAKANOME-DEV/insights</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">856-add-pagination-insights-page</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e1d263e</div>
+                                        <div class="message">refactor: remove console logs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 45 commits in
+                                        <span class="repo">TAKANOME-DEV/insights</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">beta</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8a7d559</div>
+                                        <div class="message">fix: Highlights UX copy bandaid (#944)
 
-display the user avatar and name after login
-the number of highlights created
-the number of opened/closed prs on opensauced (or github maybe...)
+UX bug fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dedf659</div>
+                                        <div class="message">chore(patch): release 1.33.0-beta.2 on beta channel [skip ci]
 
-A summary of the user's insights profile
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+## [1.33.0-beta.2](https://github.com/open-sauced/insights/compare/v1.33.0-beta.1...v1.33.0-beta.2) (2023-03-03)
+
+### 🐛 Bug Fixes
+
+* check for contributor commit data before updating graph ([#941](https://github.com/open-sauced/insights/issues/941)) ([58a74fe](https://github.com/open-sauced/insights/commit/58a74fe1f61d2e33001b19b314e0b6c65ce52816))</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">open-sauced/assets</span>
+                                    <div class="commit">
+                                        <div class="sha">#58a74fe</div>
+                                        <div class="message">fix: check for contributor commit data before updating graph (#941)</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">pmndrs/zustand</span>
+                                    <div class="commit">
+                                        <div class="sha">#a636478</div>
+                                        <div class="message">chore(minor): release 1.33.0-beta.1 on beta channel [skip ci]
+
+## [1.33.0-beta.1](https://github.com/open-sauced/insights/compare/v1.32.0...v1.33.0-beta.1) (2023-03-03)
+
+### 🐛 Bug Fixes
+
+*  broken css on button component ([#938](https://github.com/open-sauced/insights/issues/938)) ([6ba2365](https://github.com/open-sauced/insights/commit/6ba23655aa5b8e674d1be1579e1a1b868be8017a)), closes [#934](https://github.com/open-sauced/insights/issues/934) [#937](https://github.com/open-sauced/insights/issues/937)
+
+### 🍕 Features
+
+* expand list of topics and interests ([#939](https://github.com/open-sauced/insights/issues/939)) ([a607062](https://github.com/open-sauced/insights/commit/a607062ecacc627b2739def58c1872fb36e16bf3)), closes [#927](https://github.com/open-sauced/insights/issues/927) [#930](https://github.com/open-sauced/insights/issues/930)</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">TAKANOME-DEV/xarala-projet1</span>
+                                    <div class="commit">
+                                        <div class="sha">#5334e6f</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">TAKANOME-DEV/xarala-projet1</span>
+                                    <div class="commit">
+                                        <div class="sha">#a607062</div>
+                                        <div class="message">feat: expand list of topics and interests (#939)
+
+Fixes #927 
+Fixes #930</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fddd634</div>
+                                        <div class="message">chore(patch): release 1.32.0-beta.2 on beta channel [skip ci]
+
+## [1.32.0-beta.2](https://github.com/open-sauced/insights/compare/v1.32.0-beta.1...v1.32.0-beta.2) (2023-03-02)
+
+### 🐛 Bug Fixes
+
+*  broken css on button component ([#938](https://github.com/open-sauced/insights/issues/938)) ([6ba2365](https://github.com/open-sauced/insights/commit/6ba23655aa5b8e674d1be1579e1a1b868be8017a)), closes [#934](https://github.com/open-sauced/insights/issues/934) [#937](https://github.com/open-sauced/insights/issues/937)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ba2365</div>
+                                        <div class="message">fix:  broken css on button component (#938)
+
+Fixes #934
+Fixes #937</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7522f14</div>
+                                        <div class="message">chore(minor): release 1.32.0 [skip ci]
+
+## [1.32.0](https://github.com/open-sauced/insights/compare/v1.31.0...v1.32.0) (2023-03-02)
+
+### 🍕 Features
+
+* add ability to delete an insight page ([#920](https://github.com/open-sauced/insights/issues/920)) ([e1cd798](https://github.com/open-sauced/insights/commit/e1cd7988851eb4734b666e29541b7f8155f8ea1b)), closes [#853](https://github.com/open-sauced/insights/issues/853)
+* add loading state to highlight cards ([#921](https://github.com/open-sauced/insights/issues/921)) ([63c2cc1](https://github.com/open-sauced/insights/commit/63c2cc1772fed6161b70e25a883d16a0f756d1a2)), closes [#903](https://github.com/open-sauced/insights/issues/903)
+* default explore topic matches user interest ([#930](https://github.com/open-sauced/insights/issues/930)) ([e73c9dd](https://github.com/open-sauced/insights/commit/e73c9ddaffa2cd013ea43f2132b98cf28d2951ad)), closes [#929](https://github.com/open-sauced/insights/issues/929)
+* implement highlights feed page ([#913](https://github.com/open-sauced/insights/issues/913)) ([6271c91](https://github.com/open-sauced/insights/commit/6271c919fc45bcd8d0ef7eb8f4282a5114a72882)), closes [#900](https://github.com/open-sauced/insights/issues/900) [#829](https://github.com/open-sauced/insights/issues/829)
+* navigate to user contributions tab if there are no user highlights ([#918](https://github.com/open-sauced/insights/issues/918)) ([3bb20ef](https://github.com/open-sauced/insights/commit/3bb20ef596cf32e2186678c8e1bcb5c4040e3393)), closes [#914](https://github.com/open-sauced/insights/issues/914) [#916](https://github.com/open-sauced/insights/issues/916)
+* update default user profile bio ([#926](https://github.com/open-sauced/insights/issues/926)) ([2a95817](https://github.com/open-sauced/insights/commit/2a9581709365c2bdcbe9a0f1fcbddf6272ff4b72)), closes [#922](https://github.com/open-sauced/insights/issues/922)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#291a694</div>
+                                        <div class="message">Merge pull request #936 from open-sauced/beta
+
+v1.32.0-beta.1 -&gt; production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53227b3</div>
+                                        <div class="message">chore(minor): release 1.32.0-beta.1 on beta channel [skip ci]
+
+## [1.32.0-beta.1](https://github.com/open-sauced/insights/compare/v1.31.0...v1.32.0-beta.1) (2023-03-02)
+
+### 🍕 Features
+
+* add ability to delete an insight page ([#920](https://github.com/open-sauced/insights/issues/920)) ([e1cd798](https://github.com/open-sauced/insights/commit/e1cd7988851eb4734b666e29541b7f8155f8ea1b)), closes [#853](https://github.com/open-sauced/insights/issues/853)
+* add loading state to highlight cards ([#921](https://github.com/open-sauced/insights/issues/921)) ([63c2cc1](https://github.com/open-sauced/insights/commit/63c2cc1772fed6161b70e25a883d16a0f756d1a2)), closes [#903](https://github.com/open-sauced/insights/issues/903)
+* default explore topic matches user interest ([#930](https://github.com/open-sauced/insights/issues/930)) ([e73c9dd](https://github.com/open-sauced/insights/commit/e73c9ddaffa2cd013ea43f2132b98cf28d2951ad)), closes [#929](https://github.com/open-sauced/insights/issues/929)
+* implement highlights feed page ([#913](https://github.com/open-sauced/insights/issues/913)) ([6271c91](https://github.com/open-sauced/insights/commit/6271c919fc45bcd8d0ef7eb8f4282a5114a72882)), closes [#900](https://github.com/open-sauced/insights/issues/900) [#829](https://github.com/open-sauced/insights/issues/829)
+* navigate to user contributions tab if there are no user highlights ([#918](https://github.com/open-sauced/insights/issues/918)) ([3bb20ef](https://github.com/open-sauced/insights/commit/3bb20ef596cf32e2186678c8e1bcb5c4040e3393)), closes [#914](https://github.com/open-sauced/insights/issues/914) [#916](https://github.com/open-sauced/insights/issues/916)
+* update default user profile bio ([#926](https://github.com/open-sauced/insights/issues/926)) ([2a95817](https://github.com/open-sauced/insights/commit/2a9581709365c2bdcbe9a0f1fcbddf6272ff4b72)), closes [#922](https://github.com/open-sauced/insights/issues/922)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b40723</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69d00de</div>
+                                        <div class="message">chore(minor): release 1.31.0-beta.16 on beta channel [skip ci]
+
+## [1.31.0-beta.16](https://github.com/open-sauced/insights/compare/v1.31.0-beta.15...v1.31.0-beta.16) (2023-03-02)
+
+### 🍕 Features
+
+* implement highlights feed page ([#913](https://github.com/open-sauced/insights/issues/913)) ([6271c91](https://github.com/open-sauced/insights/commit/6271c919fc45bcd8d0ef7eb8f4282a5114a72882)), closes [#900](https://github.com/open-sauced/insights/issues/900) [#829](https://github.com/open-sauced/insights/issues/829)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6271c91</div>
+                                        <div class="message">feat: implement highlights feed page (#913)
+
+Fixes #900
+Fixes #829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a03a718</div>
+                                        <div class="message">chore(minor): release 1.31.0-beta.15 on beta channel [skip ci]
+
+## [1.31.0-beta.15](https://github.com/open-sauced/insights/compare/v1.31.0-beta.14...v1.31.0-beta.15) (2023-03-01)
+
+### 🍕 Features
+
+* default explore topic matches user interest ([#930](https://github.com/open-sauced/insights/issues/930)) ([e73c9dd](https://github.com/open-sauced/insights/commit/e73c9ddaffa2cd013ea43f2132b98cf28d2951ad)), closes [#929](https://github.com/open-sauced/insights/issues/929)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e73c9dd</div>
+                                        <div class="message">feat: default explore topic matches user interest (#930)
+
+Fixes #929</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8affa0a</div>
+                                        <div class="message">chore(minor): release 1.31.0-beta.14 on beta channel [skip ci]
+
+## [1.31.0-beta.14](https://github.com/open-sauced/insights/compare/v1.31.0-beta.13...v1.31.0-beta.14) (2023-03-01)
+
+### 🍕 Features
+
+* navigate to user contributions tab if there are no user highlights ([#918](https://github.com/open-sauced/insights/issues/918)) ([3bb20ef](https://github.com/open-sauced/insights/commit/3bb20ef596cf32e2186678c8e1bcb5c4040e3393)), closes [#914](https://github.com/open-sauced/insights/issues/914) [#916](https://github.com/open-sauced/insights/issues/916)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bb20ef</div>
+                                        <div class="message">feat: navigate to user contributions tab if there are no user highlights (#918)
+
+Fixes #914
+Fixes #916</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#897d738</div>
+                                        <div class="message">chore(minor): release 1.31.0 [skip ci]
+
+## [1.31.0](https://github.com/open-sauced/insights/compare/v1.30.0...v1.31.0) (2023-02-28)
+
+### 🧑‍💻 Code Refactoring
+
+* replace `Supabase` button with native button element  ([#907](https://github.com/open-sauced/insights/issues/907)) ([807a177](https://github.com/open-sauced/insights/commit/807a17727f9cc4b09d7cf6b42c2c536e934675cc)), closes [#901](https://github.com/open-sauced/insights/issues/901) [#854](https://github.com/open-sauced/insights/issues/854)
+
+### 🍕 Features
+
+* 867 mobile buttons header ([#898](https://github.com/open-sauced/insights/issues/898)) ([e2246f4](https://github.com/open-sauced/insights/commit/e2246f447f46c1e92849c8e2e73baff3051976bf))
+* add suggestions to repo search ([#908](https://github.com/open-sauced/insights/issues/908)) ([f908b18](https://github.com/open-sauced/insights/commit/f908b186e168a229ab59e59a623f5380094152c2)), closes [#789](https://github.com/open-sauced/insights/issues/789)
+* add user profile fields for LinkedIn, GitHub sponsors ([#905](https://github.com/open-sauced/insights/issues/905)) ([df06687](https://github.com/open-sauced/insights/commit/df06687c67abd04004287b1d99c075ffe605ae9f)), closes [#876](https://github.com/open-sauced/insights/issues/876)
+* implement edit highlight ([#909](https://github.com/open-sauced/insights/issues/909)) ([79f9ddc](https://github.com/open-sauced/insights/commit/79f9ddc90498a5fc1456199ce1350668ece5ab22))
+* implement highlights character limit  ([#912](https://github.com/open-sauced/insights/issues/912)) ([5ee12bf](https://github.com/open-sauced/insights/commit/5ee12bff1910d47613a2644f6546059cc3a8d878)), closes [#899](https://github.com/open-sauced/insights/issues/899)
+* implement report highlight  ([#897](https://github.com/open-sauced/insights/issues/897)) ([604f70e](https://github.com/open-sauced/insights/commit/604f70ee2af352eb1da3f3dc3cd70f17972b7d51)), closes [#884](https://github.com/open-sauced/insights/issues/884)
+* update user onboarding flow ([#880](https://github.com/open-sauced/insights/issues/880)) ([bd34c2a](https://github.com/open-sauced/insights/commit/bd34c2ae49186acbf9bd459cf974f907165de36b)), closes [#801](https://github.com/open-sauced/insights/issues/801)
+
+### 🐛 Bug Fixes
+
+* prevent user URL fields from providing an empty string ([7de74b3](https://github.com/open-sauced/insights/commit/7de74b370bd0ecdff7b661e8372788974b801c1d))
+* update highlight toast message ([#915](https://github.com/open-sauced/insights/issues/915)) ([a1a5568](https://github.com/open-sauced/insights/commit/a1a556888f256eab9d48e47e13ed10e2a8265493)), closes [#904](https://github.com/open-sauced/insights/issues/904)
+* update pointer after highlight is saved ([754e94f](https://github.com/open-sauced/insights/commit/754e94fe2051801ac372230e3be3224643ecd596))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39249a1</div>
+                                        <div class="message">Merge pull request #924 from open-sauced/beta
+
+v1.31.0-beta.11 -&gt; production</div>
                                     </div>
                                 </div>
                             </section>
