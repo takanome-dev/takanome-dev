@@ -125,10 +125,10 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>💬 Latest Tweets</summary>
   <img src="./assets/tweets.svg" />
-</details>
+</details> -->
 
 ---
 
