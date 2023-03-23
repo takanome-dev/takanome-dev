@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="228" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="568" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,18 +19,222 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TAKANOME-DEV/film-fiesta</span>
+                                        Starred
+                                        <span class="repo">forem/forem</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1038 Unable to click on the discord and dev link-buttons as Help icon covers them</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat-react-native-app</span></div>
+                                    <div>opened by parmishh in <span class="repo">open-sauced/insights</span></div>
+                                    <div class="comment">Well spotted! Assigned you</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">TAKANOME-DEV/insights</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">beta</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0028164</div>
-                                        <div class="message">update configs and replacing the nextjs app</div>
+                                        <div class="sha">#adfb620</div>
+                                        <div class="message">chore(patch): release 1.37.0-beta.3 on beta channel [skip ci]
+
+## [1.37.0-beta.3](https://github.com/open-sauced/insights/compare/v1.37.0-beta.2...v1.37.0-beta.3) (2023-03-22)
+
+### 🐛 Bug Fixes
+
+* close highlight dialog when clicking outside its container ([#999](https://github.com/open-sauced/insights/issues/999)) ([1bc90bb](https://github.com/open-sauced/insights/commit/1bc90bb5c61b353aeb847fef98d738998fb9c142))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bc90bb</div>
+                                        <div class="message">fix: close highlight dialog when clicking outside its container (#999)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef42818</div>
+                                        <div class="message">chore(patch): release 1.37.0-beta.2 on beta channel [skip ci]
+
+## [1.37.0-beta.2](https://github.com/open-sauced/insights/compare/v1.37.0-beta.1...v1.37.0-beta.2) (2023-03-22)
+
+### 🐛 Bug Fixes
+
+* update avatar style to remain aligned with the input field ([#1037](https://github.com/open-sauced/insights/issues/1037)) ([2374f20](https://github.com/open-sauced/insights/commit/2374f204d75292ad2b947583e10ed485c1a2d4f0))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2374f20</div>
+                                        <div class="message">fix: update avatar style to remain aligned with the input field (#1037)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19f0a69</div>
+                                        <div class="message">chore(minor): release 1.37.0-beta.1 on beta channel [skip ci]
+
+## [1.37.0-beta.1](https://github.com/open-sauced/insights/compare/v1.36.0...v1.37.0-beta.1) (2023-03-22)
+
+### 🧑‍💻 Code Refactoring
+
+* Deleted unused hooks, removed unused exports and imports ([#1028](https://github.com/open-sauced/insights/issues/1028)) ([7b2bda2](https://github.com/open-sauced/insights/commit/7b2bda22957e389dde711832dad2e19a5b502ea1))
+
+### 🍕 Features
+
+* add teams UI for the design system ([#994](https://github.com/open-sauced/insights/issues/994)) ([499d08e](https://github.com/open-sauced/insights/commit/499d08e81aa890ac7a2cca0761fc7d670538c363))
+* added active styles to navbar links ([#1016](https://github.com/open-sauced/insights/issues/1016)) ([c25c0a3](https://github.com/open-sauced/insights/commit/c25c0a33230bca37aca12a98b243eaa00cd0731c)), closes [#697](https://github.com/open-sauced/insights/issues/697)
+* update top nav menu to be more responsive on mobile ([#1029](https://github.com/open-sauced/insights/issues/1029)) ([90c1e4a](https://github.com/open-sauced/insights/commit/90c1e4a9f5ffeaa9839d0afae503ba42859170da)), closes [#866](https://github.com/open-sauced/insights/issues/866)
+
+### 🐛 Bug Fixes
+
+* add a check for proper URL in avatarURL prop ([#1009](https://github.com/open-sauced/insights/issues/1009)) ([a425279](https://github.com/open-sauced/insights/commit/a4252797fa8093c8d3d472c26422e20a9ec44160))
+* center text inside upgrade access button ([#1027](https://github.com/open-sauced/insights/issues/1027)) ([cf3f6cb](https://github.com/open-sauced/insights/commit/cf3f6cbd7c5a7bf4db76733c9b90255a5bc09d39)), closes [#1024](https://github.com/open-sauced/insights/issues/1024)
+* make delete standout ([#1026](https://github.com/open-sauced/insights/issues/1026)) ([9c68287](https://github.com/open-sauced/insights/commit/9c68287eabbe9b826efd27f0a70c3e0d48ba120e))
+* refresh highlights list on update and delete ([#1034](https://github.com/open-sauced/insights/issues/1034)) ([bf2d951](https://github.com/open-sauced/insights/commit/bf2d9518bdf7b38e8dbdc147e8f01284041b511e))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf2d951</div>
+                                        <div class="message">fix: refresh highlights list on update and delete (#1034)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d45b969</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into beta
+
+* origin/main:
+  chore(minor): release 1.36.0 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48c27f1</div>
+                                        <div class="message">chore(minor): release 1.36.0-beta.9 on beta channel [skip ci]
+
+## [1.36.0-beta.9](https://github.com/open-sauced/insights/compare/v1.36.0-beta.8...v1.36.0-beta.9) (2023-03-21)
+
+### 🐛 Bug Fixes
+
+* add a check for proper URL in avatarURL prop ([#1009](https://github.com/open-sauced/insights/issues/1009)) ([a425279](https://github.com/open-sauced/insights/commit/a4252797fa8093c8d3d472c26422e20a9ec44160))
+
+### 🍕 Features
+
+* update top nav menu to be more responsive on mobile ([#1029](https://github.com/open-sauced/insights/issues/1029)) ([90c1e4a](https://github.com/open-sauced/insights/commit/90c1e4a9f5ffeaa9839d0afae503ba42859170da)), closes [#866](https://github.com/open-sauced/insights/issues/866)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90c1e4a</div>
+                                        <div class="message">feat: update top nav menu to be more responsive on mobile (#1029)
+
+Closes #866</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a425279</div>
+                                        <div class="message">fix: add a check for proper URL in avatarURL prop (#1009)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#774a332</div>
+                                        <div class="message">chore(patch): release 1.36.0-beta.8 on beta channel [skip ci]
+
+## [1.36.0-beta.8](https://github.com/open-sauced/insights/compare/v1.36.0-beta.7...v1.36.0-beta.8) (2023-03-20)
+
+### 🐛 Bug Fixes
+
+* make delete standout ([#1026](https://github.com/open-sauced/insights/issues/1026)) ([9c68287](https://github.com/open-sauced/insights/commit/9c68287eabbe9b826efd27f0a70c3e0d48ba120e))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c68287</div>
+                                        <div class="message">fix: make delete standout (#1026)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43324ea</div>
+                                        <div class="message">chore(minor): release 1.36.0-beta.7 on beta channel [skip ci]
+
+## [1.36.0-beta.7](https://github.com/open-sauced/insights/compare/v1.36.0-beta.6...v1.36.0-beta.7) (2023-03-20)
+
+### 🧑‍💻 Code Refactoring
+
+* Deleted unused hooks, removed unused exports and imports ([#1028](https://github.com/open-sauced/insights/issues/1028)) ([7b2bda2](https://github.com/open-sauced/insights/commit/7b2bda22957e389dde711832dad2e19a5b502ea1))
+
+### 🍕 Features
+
+* added active styles to navbar links ([#1016](https://github.com/open-sauced/insights/issues/1016)) ([c25c0a3](https://github.com/open-sauced/insights/commit/c25c0a33230bca37aca12a98b243eaa00cd0731c)), closes [#697](https://github.com/open-sauced/insights/issues/697)
+
+### 🐛 Bug Fixes
+
+* center text inside upgrade access button ([#1027](https://github.com/open-sauced/insights/issues/1027)) ([cf3f6cb](https://github.com/open-sauced/insights/commit/cf3f6cbd7c5a7bf4db76733c9b90255a5bc09d39)), closes [#1024](https://github.com/open-sauced/insights/issues/1024)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf3f6cb</div>
+                                        <div class="message">fix: center text inside upgrade access button (#1027)
+
+Fixes #1024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c25c0a3</div>
+                                        <div class="message">feat: added active styles to navbar links (#1016)
+
+Closes #697</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b2bda2</div>
+                                        <div class="message">refactor: Deleted unused hooks, removed unused exports and imports (#1028)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9b02e8</div>
+                                        <div class="message">chore(minor): release 1.36.0 [skip ci]
+
+## [1.36.0](https://github.com/open-sauced/insights/compare/v1.35.0...v1.36.0) (2023-03-16)
+
+### 🎨 Styles
+
+* log netlify env variables ([245b625](https://github.com/open-sauced/insights/commit/245b6255af96e1a76028812b4b88ebffcb9e5a15))
+
+### 🧑‍💻 Code Refactoring
+
+* correct some missing hook dependencies ([4868b5f](https://github.com/open-sauced/insights/commit/4868b5f49c222a0b17377f6cdea8c09711dbc618))
+* correct user insight repos search results ([9503d17](https://github.com/open-sauced/insights/commit/9503d17eff3d14f5b1af1f1fad120f393b47db08))
+* correctly await router transitions ([8fa63c0](https://github.com/open-sauced/insights/commit/8fa63c040bd7980657024b3bd60c1ce5781ec815))
+
+### 🔥 Performance Improvements
+
+* load balance test, primarily for the backend ([2dcce75](https://github.com/open-sauced/insights/commit/2dcce75a6518dcaf49db1082c05c108c740d553f))
+
+### 🐛 Bug Fixes
+
+* correct database repo types and import loops ([d70f067](https://github.com/open-sauced/insights/commit/d70f06720f4b22b3fc92ab2aaeaeb45240e8a8f7))
+* enable displaying/editing of insight page repos from API ([f4cc62f](https://github.com/open-sauced/insights/commit/f4cc62f5e6f39b96ec76041998b3664ab8068f8b))
+* formatting ([065ede0](https://github.com/open-sauced/insights/commit/065ede07e9218568f363e66cbb997d0c88597310))
+* thumbnail topic images ([#1010](https://github.com/open-sauced/insights/issues/1010)) ([3f64f6d](https://github.com/open-sauced/insights/commit/3f64f6d3657abec66b227c04cd229df671c10689))
+
+### 🍕 Features
+
+* add context to the Insights list page ([#1017](https://github.com/open-sauced/insights/issues/1017)) ([bd293d1](https://github.com/open-sauced/insights/commit/bd293d1a7e3d5912b6ae30378158d8ed1d1131de))
+* add support for repo full name for onboarding/insight repos ([#861](https://github.com/open-sauced/insights/issues/861)) ([d075f90](https://github.com/open-sauced/insights/commit/d075f90a6b287fd52e31ec96cd8a2256f147b74f))
+* connect contributors to public API ([0eb73e9](https://github.com/open-sauced/insights/commit/0eb73e9b081477567be8762689ff3ff964b5869e))
+* connect pull requests to API ([#1015](https://github.com/open-sauced/insights/issues/1015)) ([4e06a6f](https://github.com/open-sauced/insights/commit/4e06a6f09096dd57db45fc2f02174c6b4116c895))
+* connect pull requests to search API ([5904102](https://github.com/open-sauced/insights/commit/5904102337a875e17ff8aeef5cdfe793d0c7dc06))
+* get pull requests for dashboard from API ([ec31c42](https://github.com/open-sauced/insights/commit/ec31c4207f321dccb9b8281b6171cd41235e3b3c))
+* implement linked data with JSON-LD ([#888](https://github.com/open-sauced/insights/issues/888)) ([e8bda0e](https://github.com/open-sauced/insights/commit/e8bda0ec892750ad2d91acccd51624ed669a9542)), closes [#814](https://github.com/open-sauced/insights/issues/814)
+* implement repo suggestions in create insight page ([#1011](https://github.com/open-sauced/insights/issues/1011)) ([8814289](https://github.com/open-sauced/insights/commit/8814289cc76ea9234f0ead05dd44078bc034dc66))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b0c5cf</div>
+                                        <div class="message">Merge pull request #1019 from open-sauced/beta
+
+v1.36.0-beta.5 -&gt; production</div>
                                     </div>
                                 </div>
                             </section>
@@ -39,11 +243,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Ndeye456/e-commerce-app</span>
+                                        Deleted
+                      branch
+                                        <span class="code">985-dialog-bug</span>
+                                        in
+                                        <span class="repo">TAKANOME-DEV/insights</span>
                                     </div>
                                 </div>
                             </section>
@@ -52,40 +259,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">xnimorz/use-debounce</span>
+                                        Opened
+                                        <span class="issue">#1039 Bug: Blank layout when filtering repos not in the current page</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">stalniy/casl</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">type-challenges/type-challenges</span>
-                                        to
-                                        <span class="repo">TAKANOME-DEV/type-challenges</span>
-                                    </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">open-sauced/insights</span></div>
                                 </div>
                             </section>
                         </div>
