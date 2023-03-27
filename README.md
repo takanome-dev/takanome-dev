@@ -1,18 +1,13 @@
-<div style="display:flex;justify-content:space-between;">
-<img src="./assets/general.svg" width="100%" />
-<img src="./assets/followups.svg" width="100%" />
-</div>
+[<img align="left" width="500" alt="🦑" src="./assets/general.svg">](#)
+[<img align="right" width="500" alt="🦑" src="./assets/followups.svg">](#)
 
----
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-<div style="display:flex;justify-content:space-between;">
-  <div>
-    <h2>📶 Github Contributions</h2>
-    <img src="./assets/contributions.svg" />
-  </div>
-  <div style="margin-left:20px;max-width:45%;">
-    <h2>🛠️ Technologies & Tools</h2>
-    <p>
+<h2> 📶 Contributions</h2>
+[<img align="left" width="600" alt="🦑" src="./assets/contributions.svg">](#)
+
+<div align="right">
+  <h2 align="left">🛠 Technologies & Tools </h2>
     <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="30" height="30" />
       </a>
@@ -91,14 +86,14 @@
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="" width="30" height="30" />
       </a>
-  </p>
-  </div>
 </div>
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 ### ⚡ Recent Activity
 
-<div style="display:flex;justify-content:space-between;align-items:center;">
-  <div>
+<div style="display:flex;align-items:center;justify-content:space-between;">
+<div align="left" width="400">
   <!--RECENT_ACTIVITY:start-->
 
 1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/film-fiesta](https://github.com/TAKANOME-DEV/film-fiesta)
@@ -113,12 +108,14 @@
 Last Updated: Monday, March 27th, 2023, 12:59:36 AM
 
   <!--RECENT_ACTIVITY:last_update_end-->
-  </div>
-  <img src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" width="40%" /> -->
 </div>
 
----
+[<img align="right" width="400" src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" width="40%" />](#)
+
+</div>
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 ## ☠ Last But Not Least ⚔
 
-<img src="https://user-images.githubusercontent.com/79809121/228082658-c629495d-de09-43fd-b887-a14b4174bd22.jpeg" alt="" />
+<img src="https://user-images.githubusercontent.com/79809121/228082658-c629495d-de09-43fd-b887-a14b4174bd22.jpeg" alt="" width="100%" />
