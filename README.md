@@ -4,7 +4,8 @@
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 <h2> 📶 Contributions</h2>
-[<img align="left" width="400" alt="🦑" src="./assets/contributions.svg">](#)
+
+[<img align="left" width="390" alt="🦑" src="./assets/contributions.svg">](#)
 
 <div align="right">
   <h2 align="left">🛠 Technologies & Tools </h2>
@@ -110,7 +111,7 @@ Last Updated: Monday, March 27th, 2023, 12:59:36 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
-[<img align="right" width="400" src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" width="40%" />](#)
+[<img align="right" width="300" src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" width="40%" />](#)
 
 </div>
 
