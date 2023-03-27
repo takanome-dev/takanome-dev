@@ -3,7 +3,9 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-<h2> 📶 Contributions</h2>
+<div style="display:flex;align-items:center;justify-content:space-between;">
+  <div>
+  <h2> 📶 Contributions</h2>
 
 [<img align="left" width="390" alt="🦑" src="./assets/contributions.svg">](#)
 
@@ -88,13 +90,19 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="" width="30" height="30" />
       </a>
 </div>
+</div>
+<div>
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+
+</div>
+
+</div>
 
 ### ⚡ Recent Activity
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
-<div align="left" width="400">
+<div align="left" width="400" >
   <!--RECENT_ACTIVITY:start-->
 
 1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/film-fiesta](https://github.com/TAKANOME-DEV/film-fiesta)
@@ -111,7 +119,7 @@ Last Updated: Monday, March 27th, 2023, 12:59:36 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
-[<img align="right" width="300" src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" width="40%" />](#)
+[<img align="right" src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" width="400" />](#)
 
 </div>
 
