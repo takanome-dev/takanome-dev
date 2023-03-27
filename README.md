@@ -1,10 +1,10 @@
-[<img align="left" width="500" alt="🦑" src="./assets/general.svg">](#)
-[<img align="right" width="500" alt="🦑" src="./assets/followups.svg">](#)
+[<img align="left" width="390" alt="🦑" src="./assets/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="./assets/followups.svg">](#)
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 <h2> 📶 Contributions</h2>
-[<img align="left" width="600" alt="🦑" src="./assets/contributions.svg">](#)
+[<img align="left" width="400" alt="🦑" src="./assets/contributions.svg">](#)
 
 <div align="right">
   <h2 align="left">🛠 Technologies & Tools </h2>
