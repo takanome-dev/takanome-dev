@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="675" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,6 +19,68 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1055 bug: Input errors are not displayed when entering a highlight</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by parmishh in <span class="repo">open-sauced/insights</span></div>
+                                    <div class="comment">
+                                        <i>What I understand is we need to show the message in console to frontend.</i>
+                                        Yeah, replace
+                                        <code>an error occurred</code>
+                                        with the error message
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1036 Bug: Mobile nav connect button is too big</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by bdougie in <span class="repo">open-sauced/insights</span></div>
+                                    <div class="comment">
+                                        <i>I noticed the fat button problem in some other places too so I applied the no-wrap-whitespace for the button component, so that it applies to all button</i>
+                                        @nworiekingslee feel free to open a draft pr if it's not yet ready
+                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1055 bug: Input errors are not displayed when entering a highlight</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by parmishh in <span class="repo">open-sauced/insights</span></div>
+                                    <div class="comment">We should display the error message returned by the backend
+
+@parmishh do you wanna do it?</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -29,28 +91,9 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5c55dde</div>
-                                        <div class="message">docs: update template readme</div>
+                                        <div class="sha">#13c0a9c</div>
+                                        <div class="message">well, i am done with this :(</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1039 Bug: Blank layout when filtering repos not in the current page</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by TAKANOME-DEV in <span class="repo">open-sauced/insights</span></div>
-                                    <div class="comment">This is most likely a backend issue. 
-
-cc @brandonroberts</div>
                                 </div>
                             </section>
                         </div>
@@ -61,200 +104,16 @@ cc @brandonroberts</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">TAKANOME-DEV/insights</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">TAKANOME-DEV/takanome-dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">beta</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42fbe2e</div>
-                                        <div class="message">fix: add loading indicator to insights filter page (#1049)</div>
+                                        <div class="sha">#b727c41</div>
+                                        <div class="message">ahhhhh, hope the images will be aligned</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#e823671</div>
-                                        <div class="message">chore(patch): release 1.38.0-beta.3 on beta channel [skip ci]
-
-## [1.38.0-beta.3](https://github.com/open-sauced/insights/compare/v1.38.0-beta.2...v1.38.0-beta.3) (2023-03-27)
-
-### 🐛 Bug Fixes
-
-* correct github link length wrapping on new line in highlights feature ([#1053](https://github.com/open-sauced/insights/issues/1053)) ([693874c](https://github.com/open-sauced/insights/commit/693874cfb17da1d58982993dd461ecc83576ce8b)), closes [#1052](https://github.com/open-sauced/insights/issues/1052)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#693874c</div>
-                                        <div class="message">fix: correct github link length wrapping on new line in highlights feature (#1053)
-
-Fixes #1052</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#916a3f7</div>
-                                        <div class="message">chore(minor): release 1.38.0-beta.2 on beta channel [skip ci]
-
-## [1.38.0-beta.2](https://github.com/open-sauced/insights/compare/v1.38.0-beta.1...v1.38.0-beta.2) (2023-03-24)
-
-### 🍕 Features
-
-* add repository recommendation links ([#1050](https://github.com/open-sauced/insights/issues/1050)) ([acfa306](https://github.com/open-sauced/insights/commit/acfa306514ffc019cf074908f0713fc8710e8d83))
-* add repository recommendations component to the design system ([#1045](https://github.com/open-sauced/insights/issues/1045)) ([37122bc](https://github.com/open-sauced/insights/commit/37122bc390bd68a960fdde4c08fc0cb11b595860))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acfa306</div>
-                                        <div class="message">feat: add repository recommendation links (#1050)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37122bc</div>
-                                        <div class="message">feat: add repository recommendations component to the design system (#1045)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64b434f</div>
-                                        <div class="message">chore(minor): release 1.38.0-beta.1 on beta channel [skip ci]
-
-## [1.38.0-beta.1](https://github.com/open-sauced/insights/compare/v1.37.0...v1.38.0-beta.1) (2023-03-24)
-
-### 🍕 Features
-
-* connect repositories to API ([#1042](https://github.com/open-sauced/insights/issues/1042)) ([619ce84](https://github.com/open-sauced/insights/commit/619ce84255d7100f77a2618011497ba3cdb613e7))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#619ce84</div>
-                                        <div class="message">feat: connect repositories to API (#1042)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f1fa03</div>
-                                        <div class="message">Merge branch 'main' into beta</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34a6429</div>
-                                        <div class="message">chore(minor): release 1.37.0 [skip ci]
-
-## [1.37.0](https://github.com/open-sauced/insights/compare/v1.36.0...v1.37.0) (2023-03-24)
-
-### 🧑‍💻 Code Refactoring
-
-* Deleted unused hooks, removed unused exports and imports ([#1028](https://github.com/open-sauced/insights/issues/1028)) ([7b2bda2](https://github.com/open-sauced/insights/commit/7b2bda22957e389dde711832dad2e19a5b502ea1))
-
-### 🍕 Features
-
-* add teams UI for the design system ([#994](https://github.com/open-sauced/insights/issues/994)) ([499d08e](https://github.com/open-sauced/insights/commit/499d08e81aa890ac7a2cca0761fc7d670538c363))
-* added active styles to navbar links ([#1016](https://github.com/open-sauced/insights/issues/1016)) ([c25c0a3](https://github.com/open-sauced/insights/commit/c25c0a33230bca37aca12a98b243eaa00cd0731c)), closes [#697](https://github.com/open-sauced/insights/issues/697)
-* create collaboration Ui components ([#1006](https://github.com/open-sauced/insights/issues/1006)) ([19ff5a7](https://github.com/open-sauced/insights/commit/19ff5a73d1ae669722c307bbf9f16e1dd5be3fb4))
-* replace react toast to radix ([#933](https://github.com/open-sauced/insights/issues/933)) ([3e000be](https://github.com/open-sauced/insights/commit/3e000be0e85b29cfdf16d58d1a74256ebcf85f8b))
-* update top nav menu to be more responsive on mobile ([#1029](https://github.com/open-sauced/insights/issues/1029)) ([90c1e4a](https://github.com/open-sauced/insights/commit/90c1e4a9f5ffeaa9839d0afae503ba42859170da)), closes [#866](https://github.com/open-sauced/insights/issues/866)
-
-### 🐛 Bug Fixes
-
-*  updated footer file to update the year dynamically ([#1040](https://github.com/open-sauced/insights/issues/1040)) ([c766d95](https://github.com/open-sauced/insights/commit/c766d9521faf9d6198a9049772a285b9b2d32d00))
-* add a check for proper URL in avatarURL prop ([#1009](https://github.com/open-sauced/insights/issues/1009)) ([a425279](https://github.com/open-sauced/insights/commit/a4252797fa8093c8d3d472c26422e20a9ec44160))
-* center text inside upgrade access button ([#1027](https://github.com/open-sauced/insights/issues/1027)) ([cf3f6cb](https://github.com/open-sauced/insights/commit/cf3f6cbd7c5a7bf4db76733c9b90255a5bc09d39)), closes [#1024](https://github.com/open-sauced/insights/issues/1024)
-* close highlight dialog when clicking outside its container ([#999](https://github.com/open-sauced/insights/issues/999)) ([1bc90bb](https://github.com/open-sauced/insights/commit/1bc90bb5c61b353aeb847fef98d738998fb9c142))
-* make delete standout ([#1026](https://github.com/open-sauced/insights/issues/1026)) ([9c68287](https://github.com/open-sauced/insights/commit/9c68287eabbe9b826efd27f0a70c3e0d48ba120e))
-* make insights hub layout inconsistent on larger screens ([#1046](https://github.com/open-sauced/insights/issues/1046)) ([daaf6d1](https://github.com/open-sauced/insights/commit/daaf6d12d042af52ab0f1c405eb85caf207e80b5))
-* refresh highlights list on update and delete ([#1034](https://github.com/open-sauced/insights/issues/1034)) ([bf2d951](https://github.com/open-sauced/insights/commit/bf2d9518bdf7b38e8dbdc147e8f01284041b511e))
-* remove dialog layout overlap on single highlight view ([#1047](https://github.com/open-sauced/insights/issues/1047)) ([ea836e8](https://github.com/open-sauced/insights/commit/ea836e8090f41ece5a8fae9ff4aa5835166c51fd))
-* update avatar style to remain aligned with the input field ([#1037](https://github.com/open-sauced/insights/issues/1037)) ([2374f20](https://github.com/open-sauced/insights/commit/2374f204d75292ad2b947583e10ed485c1a2d4f0))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8691bf</div>
-                                        <div class="message">Merge pull request #1048 from open-sauced/beta
-
-v1.37.0-beta.7 -&gt; production</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4ad68e</div>
-                                        <div class="message">chore(patch): release 1.37.0-beta.7 on beta channel [skip ci]
-
-## [1.37.0-beta.7](https://github.com/open-sauced/insights/compare/v1.37.0-beta.6...v1.37.0-beta.7) (2023-03-23)
-
-### 🐛 Bug Fixes
-
-* make insights hub layout inconsistent on larger screens ([#1046](https://github.com/open-sauced/insights/issues/1046)) ([daaf6d1](https://github.com/open-sauced/insights/commit/daaf6d12d042af52ab0f1c405eb85caf207e80b5))
-* remove dialog layout overlap on single highlight view ([#1047](https://github.com/open-sauced/insights/issues/1047)) ([ea836e8](https://github.com/open-sauced/insights/commit/ea836e8090f41ece5a8fae9ff4aa5835166c51fd))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#daaf6d1</div>
-                                        <div class="message">fix: make insights hub layout inconsistent on larger screens (#1046)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea836e8</div>
-                                        <div class="message">fix: remove dialog layout overlap on single highlight view (#1047)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c202b13</div>
-                                        <div class="message">chore(minor): release 1.37.0-beta.6 on beta channel [skip ci]
-
-## [1.37.0-beta.6](https://github.com/open-sauced/insights/compare/v1.37.0-beta.5...v1.37.0-beta.6) (2023-03-23)
-
-### 🍕 Features
-
-* replace react toast to radix ([#933](https://github.com/open-sauced/insights/issues/933)) ([3e000be](https://github.com/open-sauced/insights/commit/3e000be0e85b29cfdf16d58d1a74256ebcf85f8b))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e000be</div>
-                                        <div class="message">feat: replace react toast to radix (#933)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce234a5</div>
-                                        <div class="message">chore(minor): release 1.37.0-beta.5 on beta channel [skip ci]
-
-## [1.37.0-beta.5](https://github.com/open-sauced/insights/compare/v1.37.0-beta.4...v1.37.0-beta.5) (2023-03-23)
-
-### 🍕 Features
-
-* create collaboration Ui components ([#1006](https://github.com/open-sauced/insights/issues/1006)) ([19ff5a7](https://github.com/open-sauced/insights/commit/19ff5a73d1ae669722c307bbf9f16e1dd5be3fb4))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19ff5a7</div>
-                                        <div class="message">feat: create collaboration Ui components (#1006)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2b9b6e</div>
-                                        <div class="message">chore(patch): release 1.37.0-beta.4 on beta channel [skip ci]
-
-## [1.37.0-beta.4](https://github.com/open-sauced/insights/compare/v1.37.0-beta.3...v1.37.0-beta.4) (2023-03-22)
-
-### 🐛 Bug Fixes
-
-*  updated footer file to update the year dynamically ([#1040](https://github.com/open-sauced/insights/issues/1040)) ([c766d95](https://github.com/open-sauced/insights/commit/c766d9521faf9d6198a9049772a285b9b2d32d00))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c766d95</div>
-                                        <div class="message">fix:  updated footer file to update the year dynamically (#1040)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1057 Feature: add more spaces between highlights</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">open-sauced/insights</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1054 A Thinner and Theme matched Scrollbar would be Great.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by parmishh in <span class="repo">open-sauced/insights</span></div>
-                                    <div class="comment">+1 rounded edge and maybe lighter gray</div>
                                 </div>
                             </section>
                         </div>
