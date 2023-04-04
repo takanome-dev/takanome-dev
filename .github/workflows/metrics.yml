@@ -102,14 +102,3 @@ jobs:
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories, user
 
-      - name: 🦑 Latest tweets including attachments
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/tweets.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_user: takanome_dev
-          plugin_tweets_limit: 3
