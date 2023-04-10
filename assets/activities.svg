@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="406" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="670" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,40 +19,6 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#748 Feature: rework link usage</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by 0-vortex in <span class="repo">open-sauced/insights</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#748 Feature: rework link usage</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by 0-vortex in <span class="repo">open-sauced/insights</span></div>
-                                    <div class="comment">Fixed on https://github.com/open-sauced/insights/pull/758</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -63,11 +29,11 @@
                                 <div class="details">
                                     <div>opened by SimranjitKaurMaan in <span class="repo">open-sauced/insights</span></div>
                                     <div class="comment">
-                                        Filtering by
-                                        <code>most spammed</code>
-                                        causes the app to crash (on my side)
-                                        <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAHgUlEQVR4nO1aW2gUVxielj61pbSl0FJaX0tb+l5Kn6IGTUyUagwar3jFVxPwSSiGFrQESpFUkMZKaWpToeClXijr7JzbTNbcV3MxxmuiMYm3qElsOOUb/JfZnYnupqazkfngJ5u5fd/85z//+c85YxgRIkSIECFChAgRImQFrfVLnPNCy7J+5JzblmX1PjGbMVarlJqPa4wXhDcNlmWVcc67LcvSnHPd2Niom5ubXXMcxz2Gc5ZldUkpvzJmOW8KPT09bzDG/gCJbdu6p6dHX79+XQ8MDOgbN264ht841t3d7V6Daxljh5LJ5OvGLONNg+M47wkhWoUQ+vz58y7hzZs39eDgoGu3bt1K/cZxWH9/vz537hyEQFCLUupdY5bwpqG5uflNznmHlFL39fWliIeGhvTw8LDPcJyEQdDFixc1XoBz3o7WNPKcNyjpnIKIS5cupQSMjIzo27dv6zt37vgMx3EeokgQXuCJmBNGHvP6IISowgMuXLjgPhQPB9Hdu3f1vXv39P37932G4zgPURAE4RCD/olEJYSozFfeNJim+SHn/H5bW1vK+3g4CRgdHdUPHjzQDx8+TDMcwzkSBOF4AYhpaWlBvxxNJBJz8o3XB6XU70opN/F4RYAEhI8ePdJjY2N6fHw8zXCMBEEwicHLIFMjrKWU9fnGmwYp5cdCiH+QeUkEHoqHQwAIJyYmpjSvIAj3ikGG5pw/Zox9lC+8Piil9qK4QDalFshWhNdIDLUIXgotixaWUn6fL7xp0Fq/bNv2QDKZdL1H4QcR2QrIFENhiZdCv0T/FkL0gytsXh+klCXw1JUrV1IhCG/m0gKZhpeAGGoNDE/ok4yxorB5fXAc5zfU2biBQhDeRMkZi8X08ePH3ayaizBcSyGJl0NmRsmqlPo1bF4fbNvuQ8KgVsDf/fv36y1btuhNmzal7NixY9MKSWqNjo4OhGNv2LxpSCaTb9u2PYlQwQ2w6upqvXHjRr18+XK9cOFCvWHDBr1r166cQ5NaA62LPo5JjZRysq2t7a1n8RYVFc0Ib/rbG4bR1NRUihDBhAI31NXVuV5fvHixLigo0CUlJe7/uGa6fRKJDa179epVtz9yzovD4vU5wLbtagxDyJgoQxF+5eXlrgjY0qVL9ebNm92Qmo4QhCONzyhxIcRxnK/D4vU5IJFI/HL27FnXUwcOHHBDsLCwMCVk2bJl/0kIwtHbH/HSSqmfw+INioC/scKCC3fs2KErKipSImCLFi1yQ/HUqVM+Eng4GzHUHyEELy2lPP0s3uLi4hnhDXKAg2IBwwUIEXpeIbDVq1frrVu36oMHD7pTzdOnT+vdu3fr+vr6nIVgWJNS2tnwrlq16rnzBjmgFZVYV1eXK6S0tNQnZP78+XrFihVumHqHp9ra2pyEICO3t7dDSGsmLyU/r82bN++58wY5oB3jJGwqB5ChjyI0FyxYoNeuXatrampyFoJWl1K2h8Ub5IAETmIVBkKWLFkypRCvrV+/Xu/bt2+6oeiExRvkABMncdG2bdt0WVnZM0WgSyAsDx8+nFU29gppamqCkFhYvD4HOI5ziIYjVGIIsWcJQbii1dCCuQxHGPNR+6Muz+Rdt27d/8IbFAE1VJBg8gEC9LenCcGoUFlZmVWJSgUJXhQFCWZ/SqnvwuL1OUBKWUHLUbhw+/btes2aNXru3LmBIpCtIRaisy1JMdFBIqJlKsdxyoN4EX0zzetzQCKRmIOTWFNHuGBzARUYChMMQ14RqM9zmaBQGFI/7O3tdcdzxticqXhXrlw5o7xGEIQQg1iTg7fgtaNHj7q1OTIukhOKFDgECWjnzp1u2GbbClSP4x6M+1LKgbB5fVBKnUCWhLdwE27G+Lxnzx43QyP0qqqqdENDg5tZc5mT0ziMRUokIiHEX2Hz+qCU2oxwvHbtWqo1aHWGxtNsyDOHIG8rYNkLYaiU2hY2rw/YURVCjNLSNG6m9TkSk4sICkFvKzxZoh5PJBLvhM0bCCFEA4YlTE5oS4o2JrIVQyIoBGllFmt8yPhCiD/zhdeHxsbGeQgVLB/Rvlzm7sxUGThzc4JEoFUxxHV2drpZ3rbtgnzhDYSUUtHY7N2cpL5JgmirCobfmft0XhG0OcE5t/KN1wel1Jec80n0G+8ObdBGJRn+9+7U0gYl7sduD4YgxtikEOKLfOMNhJSyDiGJWRr6ZeYePW1Xk9GKLnnfKwJFDkKQc/5TvvL6cOTIkVcZY51YjUUJiQd6v9IgUWT4nwTQ/jySD63EWpbVnc13O2HxBsJxnE8tyxqBGIzReDB9rkKivOb9TAV9DyLQ/xhjQ9j9zXfeQKDvQAzV694vtOjjJDL6agtr/FjiRijH4/HhWCz2uTFLeANhmuZn8Xi8B5+gYfHi8uXLLlmmIWTRd7HKG4/H3e/2lFKfGLOMNxAnT558zTTNvaZpjoEERQsWJJCxYfiNkMU5XMMY+wH92ZilvFMC01fLsr41TbPVNM3HZ86c0TDTNCfi8XhLPB7/Zsrp5izkfSpisdgrsVjsA8bY+/htvOC8ESJEiBAhQoQIxouEfwG7tw5S8ZsZOgAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
-                                        https://user-images.githubusercontent.com/79809121/230748468-8e4a6553-1fc3-4de2-8cfd-5fcc62fdcffc.mp4
+                                        @brandonroberts, when
+                                        <code>listOfRepositories</code>
+                                        is empty and
+                                        <code>isFilteredRepoNotIndexed</code>
+                                        is true, a runtime error occurs. Wondering if there is something wrong with the fix applied earlier for this
                                     </div>
                                 </div>
                             </section>
@@ -76,16 +42,162 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#1066 fix: display input error message when entering highlight</span>
+                                        Pushed 40 commits in
+                                        <span class="repo">takanome-dev/insights</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by parmishh in <span class="repo">open-sauced/insights</span></div>
-                                    <div class="comment">@parmishh is there anything you need help with to get this merged?</div>
+                                    <div>on branch <span class="code">beta</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#35a8e90</div>
+                                        <div class="message">feat: improve insights page interactions with feedback (#1051)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab05d14</div>
+                                        <div class="message">chore(minor): release 1.39.0-beta.1 on beta channel [skip ci]
+
+## [1.39.0-beta.1](https://github.com/open-sauced/insights/compare/v1.38.1-beta.3...v1.39.0-beta.1) (2023-03-31)
+
+### 🍕 Features
+
+* connect repository contributors to the API ([#1072](https://github.com/open-sauced/insights/issues/1072)) ([669db3d](https://github.com/open-sauced/insights/commit/669db3dc3c09c03bd33c97eb66fa3189032dd767))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#669db3d</div>
+                                        <div class="message">feat: connect repository contributors to the API (#1072)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#176abb0</div>
+                                        <div class="message">chore(patch): release 1.38.1-beta.3 on beta channel [skip ci]
+
+### [1.38.1-beta.3](https://github.com/open-sauced/insights/compare/v1.38.1-beta.2...v1.38.1-beta.3) (2023-03-30)
+
+### 🐛 Bug Fixes
+
+* use pull request counts for determining repository activity levels ([#1070](https://github.com/open-sauced/insights/issues/1070)) ([f0d0571](https://github.com/open-sauced/insights/commit/f0d05713363056d0cebaa035e12d2e735715f1f0))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0d0571</div>
+                                        <div class="message">fix: use pull request counts for determining repository activity levels (#1070)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a60d5f</div>
+                                        <div class="message">chore(patch): release 1.38.1-beta.2 on beta channel [skip ci]
+
+### [1.38.1-beta.2](https://github.com/open-sauced/insights/compare/v1.38.1-beta.1...v1.38.1-beta.2) (2023-03-30)
+
+### 🐛 Bug Fixes
+
+* correct connect with github button being too big on mobile ([#1063](https://github.com/open-sauced/insights/issues/1063)) ([bb0aef3](https://github.com/open-sauced/insights/commit/bb0aef3a0b81046642ac3229fb16821e2154be05))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb0aef3</div>
+                                        <div class="message">fix: correct connect with github button being too big on mobile (#1063)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2431bfc</div>
+                                        <div class="message">chore(patch): release 1.38.1-beta.1 on beta channel [skip ci]
+
+### [1.38.1-beta.1](https://github.com/open-sauced/insights/compare/v1.38.0...v1.38.1-beta.1) (2023-03-29)
+
+### 🐛 Bug Fixes
+
+* fix typo in GitHub button to authenticate ([#1064](https://github.com/open-sauced/insights/issues/1064)) ([35c8756](https://github.com/open-sauced/insights/commit/35c875629cd715f0f018ca8934634c077814088f))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35c8756</div>
+                                        <div class="message">fix: fix typo in GitHub button to authenticate (#1064)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17e4875</div>
+                                        <div class="message">Merge branch 'main' into beta</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#244ebda</div>
+                                        <div class="message">chore(minor): release 1.38.0 [skip ci]
+
+## [1.38.0](https://github.com/open-sauced/insights/compare/v1.37.0...v1.38.0) (2023-03-28)
+
+### 🐛 Bug Fixes
+
+* add loading indicator to insights filter page ([#1049](https://github.com/open-sauced/insights/issues/1049)) ([42fbe2e](https://github.com/open-sauced/insights/commit/42fbe2e68c39e75c309464eab6c7549c9ded8291))
+* correct github link length wrapping on new line in highlights feature ([#1053](https://github.com/open-sauced/insights/issues/1053)) ([693874c](https://github.com/open-sauced/insights/commit/693874cfb17da1d58982993dd461ecc83576ce8b)), closes [#1052](https://github.com/open-sauced/insights/issues/1052)
+* reset page when adding/removing a repo highlight filter ([#1061](https://github.com/open-sauced/insights/issues/1061)) ([026f2bc](https://github.com/open-sauced/insights/commit/026f2bc77fc20bea30572ade0bbe0e35140b8dbe))
+* update `repo.host_id` to repo.id to match github repo schema ([#1059](https://github.com/open-sauced/insights/issues/1059)) ([d106544](https://github.com/open-sauced/insights/commit/d1065445a0a4cf5de8bf4547c6915b1e7bb6f520))
+
+### 🍕 Features
+
+* add `ProfileLanguageChart` component to design system and user profile page ([#1030](https://github.com/open-sauced/insights/issues/1030)) ([e8e5362](https://github.com/open-sauced/insights/commit/e8e53625f254edc4bc00b73165f90d550e9ccb64))
+* add repository recommendation links ([#1050](https://github.com/open-sauced/insights/issues/1050)) ([acfa306](https://github.com/open-sauced/insights/commit/acfa306514ffc019cf074908f0713fc8710e8d83))
+* add repository recommendations component to the design system ([#1045](https://github.com/open-sauced/insights/issues/1045)) ([37122bc](https://github.com/open-sauced/insights/commit/37122bc390bd68a960fdde4c08fc0cb11b595860))
+* connect repositories to API ([#1042](https://github.com/open-sauced/insights/issues/1042)) ([619ce84](https://github.com/open-sauced/insights/commit/619ce84255d7100f77a2618011497ba3cdb613e7))
+* remove guard for nav links and handle contributors error ([#1060](https://github.com/open-sauced/insights/issues/1060)) ([3227ceb](https://github.com/open-sauced/insights/commit/3227ceb1b6cbf23206ee1a9b1cbe2673ecc51962))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8a80c4</div>
+                                        <div class="message">Merge pull request #1062 from open-sauced/beta
+
+v1.38.0-beta.8 -&gt; production</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ced5249</div>
+                                        <div class="message">chore(minor): release 1.38.0-beta.8 on beta channel [skip ci]
+
+## [1.38.0-beta.8](https://github.com/open-sauced/insights/compare/v1.38.0-beta.7...v1.38.0-beta.8) (2023-03-28)
+
+### 🍕 Features
+
+* remove guard for nav links and handle contributors error ([#1060](https://github.com/open-sauced/insights/issues/1060)) ([3227ceb](https://github.com/open-sauced/insights/commit/3227ceb1b6cbf23206ee1a9b1cbe2673ecc51962))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3227ceb</div>
+                                        <div class="message">feat: remove guard for nav links and handle contributors error (#1060)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b43dd3</div>
+                                        <div class="message">chore(patch): release 1.38.0-beta.7 on beta channel [skip ci]
+
+## [1.38.0-beta.7](https://github.com/open-sauced/insights/compare/v1.38.0-beta.6...v1.38.0-beta.7) (2023-03-28)
+
+### 🐛 Bug Fixes
+
+* reset page when adding/removing a repo highlight filter ([#1061](https://github.com/open-sauced/insights/issues/1061)) ([026f2bc](https://github.com/open-sauced/insights/commit/026f2bc77fc20bea30572ade0bbe0e35140b8dbe))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#026f2bc</div>
+                                        <div class="message">fix: reset page when adding/removing a repo highlight filter (#1061)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ec6b32</div>
+                                        <div class="message">chore(patch): release 1.38.0-beta.6 on beta channel [skip ci]
+
+## [1.38.0-beta.6](https://github.com/open-sauced/insights/compare/v1.38.0-beta.5...v1.38.0-beta.6) (2023-03-28)
+
+### 🐛 Bug Fixes
+
+* update `repo.host_id` to repo.id to match github repo schema ([#1059](https://github.com/open-sauced/insights/issues/1059)) ([d106544](https://github.com/open-sauced/insights/commit/d1065445a0a4cf5de8bf4547c6915b1e7bb6f520))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d106544</div>
+                                        <div class="message">fix: update `repo.host_id` to repo.id to match github repo schema (#1059)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a543b6</div>
+                                        <div class="message">chore(minor): release 1.38.0-beta.5 on beta channel [skip ci]
+
+## [1.38.0-beta.5](https://github.com/open-sauced/insights/compare/v1.38.0-beta.4...v1.38.0-beta.5) (2023-03-28)
+
+### 🍕 Features
+
+* add `ProfileLanguageChart` component to design system and user profile page ([#1030](https://github.com/open-sauced/insights/issues/1030)) ([e8e5362](https://github.com/open-sauced/insights/commit/e8e53625f254edc4bc00b73165f90d550e9ccb64))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8e5362</div>
+                                        <div class="message">feat: add `ProfileLanguageChart` component to design system and user profile page (#1030)</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -93,19 +205,66 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#1081 Feature: the textArea to add highlight should be resizable</span>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/braintree/sanitize-url-6.0.2</span>
+                                        in
+                                        <span class="repo">takanome-dev/ShopifyX-server</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">takanome-dev/ShopifyX-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by VenomFate-619 in <span class="repo">open-sauced/insights</span></div>
-                                    <div class="comment">
-                                        <i>I would like to implement this</i>
-                                        see https://docs.opensauced.pizza/contributing/introduction-to-contributing/#issues
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e01d8a0</div>
+                                        <div class="message">build(deps): bump @braintree/sanitize-url from 6.0.0 to 6.0.2 (#37)
+
+Bumps [@braintree/sanitize-url](https://github.com/braintree/sanitize-url) from 6.0.0 to 6.0.2.
+- [Release notes](https://github.com/braintree/sanitize-url/releases)
+- [Changelog](https://github.com/braintree/sanitize-url/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/braintree/sanitize-url/compare/v6.0.0...v6.0.2)
+
+---
+updated-dependencies:
+- dependency-name: "@braintree/sanitize-url"
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#86 feat: move to monorepo and add react native app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">takanome-dev/film-fiesta</span></div>
+                                    <div>203 files changed <span class="code">++11878 --2938</span></div>
                                 </div>
                             </section>
                         </div>
