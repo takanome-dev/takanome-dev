@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">takanome-dev/monorepo-template</span>
+                                        <span class="repo">takanome-dev/apollo-graphql-odyssey</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b4686c</div>
-                                        <div class="message">chore(deps): update pnpm to v8.3.1 (#92)
+                                        <div class="sha">#493380a</div>
+                                        <div class="message">chore(deps): update dependency @vitejs/plugin-react to v4 (#44)
 
 Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
@@ -46,9 +46,9 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">renovate/pnpm-8.x</span>
+                                        <span class="code">renovate/vitejs-plugin-react-4.x</span>
                                         in
-                                        <span class="repo">takanome-dev/monorepo-template</span>
+                                        <span class="repo">takanome-dev/apollo-graphql-odyssey</span>
                                     </div>
                                 </div>
                             </section>
@@ -61,12 +61,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#92 chore(deps): update pnpm to v8.3.1</span>
+                                        <span class="issue">#44 chore(deps): update dependency @vitejs/plugin-react to v4</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">takanome-dev/monorepo-template</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">takanome-dev/apollo-graphql-odyssey</span></div>
+                                    <div>2 files changed <span class="code">++6 --14</span></div>
                                 </div>
                             </section>
                         </div>
@@ -78,11 +78,11 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#92 chore(deps): update pnpm to v8.3.1</span>
+                                        <span class="issue">#44 chore(deps): update dependency @vitejs/plugin-react to v4</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">takanome-dev/monorepo-template</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">takanome-dev/apollo-graphql-odyssey</span></div>
                                 </div>
                             </section>
                         </div>
@@ -94,11 +94,11 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#109 chore(deps): update dependency @types/react to v18.0.37</span>
+                                        <span class="issue">#1111 feat: add loading state to onboarding page + fix margins in the medium sized screens</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">takanome-dev/ShopifyX</span></div>
+                                    <div>opened by a0m0rajab in <span class="repo">open-sauced/insights</span></div>
                                 </div>
                             </section>
                         </div>
