@@ -7,11 +7,11 @@
   <div>
   <h2> 📶 Contributions</h2>
 
-[<img align="left" width="390" alt="🦑" src="./assets/contributions.svg">](#)
+[<img alt="🦑" src="./assets/contributions.svg">](#)
 
-<div align="right">
-  <h2 align="left">🛠 Technologies & Tools </h2>
-    <a href="#">
+## 🛠 Technologies & Tools
+
+  <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="30" height="30" />
       </a>
     <a href="#">
@@ -89,46 +89,11 @@
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="" width="30" height="30" />
       </a>
-</div>
-</div>
-<div>
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-</div>
+## 📌 Number One Advice
 
-</div>
-
-### ⚡ Recent Activity
-
-<div style="display:flex;align-items:center;justify-content:space-between;">
-<div align="left" width="390">
-
-  <!--RECENT_ACTIVITY:start-->
-
-1. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/film-fiesta](https://github.com/TAKANOME-DEV/film-fiesta)
-2. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/film-fiesta](https://github.com/TAKANOME-DEV/film-fiesta)
-3. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/film-fiesta](https://github.com/TAKANOME-DEV/film-fiesta)
-4. ⬆️ Pushed 1 commit(s) to [TAKANOME-DEV/film-fiesta](https://github.com/TAKANOME-DEV/film-fiesta)
-5. 🎉 Merged PR [#85](https://github.com/TAKANOME-DEV/film-fiesta/pull/85) in [TAKANOME-DEV/film-fiesta](https://github.com/TAKANOME-DEV/film-fiesta)
-<!--RECENT_ACTIVITY:end-->
-
-  <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated: Monday, March 27th, 2023, 12:59:36 AM
-
-  <!--RECENT_ACTIVITY:last_update_end-->
-</div>
-
-<div align="right" style="align-self:top;">
-
-[<img src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" width="390" />](#)
-
-</div>
-</div>
+[<img src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" />](#)
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
-
-## ☠ The GOAT 🐐
-
-<img src="https://user-images.githubusercontent.com/79809121/228082658-c629495d-de09-43fd-b887-a14b4174bd22.jpeg" alt="" width="100%" />

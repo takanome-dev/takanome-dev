@@ -5,10 +5,10 @@
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{ cron: '0 0 * * *' }]
+  schedule: [{ cron: "0 0 * * *" }]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
-  push: { branches: ['master'] }
+  push: { branches: ["master"] }
 
 jobs:
   metrics:
@@ -20,7 +20,7 @@ jobs:
         with:
           filename: assets/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -33,7 +33,7 @@ jobs:
           filename: assets/contributions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_order: languages, notable
-          base: ''
+          base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
@@ -43,38 +43,38 @@ jobs:
           # plugin_topics_limit: 0
           # plugin_topics_mode: icons
 
-      - name: 🦑 Activities
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/activities.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+      # - name: 🦑 Activities
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: assets/activities.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ''
+      #     plugin_activity: yes
+      #     plugin_activity_days: 14
+      #     plugin_activity_filter: all
+      #     plugin_activity_limit: 5
+      #     plugin_activity_load: 300
+      #     plugin_activity_visibility: all
 
-      - name: 🦑 Coding Habits
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          # plugin_habits_from: 200
-          # plugin_habits_skipped
-          # plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          # plugin_habits_charts_type: chartist
-          # plugin_habits_trim: no
-          # plugin_habits_languages_limit: 8
-          # plugin_habits_languages_threshold: 0%
-          # config_timezone: Europe/Paris
+      # - name: 🦑 Coding Habits
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: assets/habits.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_habits: yes
+      #     plugin_habits_from: 200
+      #     plugin_habits_skipped
+      #     plugin_habits_days: 14
+      #     plugin_habits_facts: yes
+      #     plugin_habits_charts: yes
+      #     plugin_habits_charts_type: classic
+      #     plugin_habits_charts_type: chartist
+      #     plugin_habits_trim: no
+      #     plugin_habits_languages_limit: 8
+      #     plugin_habits_languages_threshold: 0%
+      #     config_timezone: Europe/Paris
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
@@ -101,4 +101,3 @@ jobs:
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories, user
-
