@@ -92,7 +92,7 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-## 📌 Number One Advice
+## 📌
 
 [<img src="https://user-images.githubusercontent.com/79809121/228082561-bc520831-4abb-404a-aee4-13532bc82be8.png" alt="" />](#)
 
